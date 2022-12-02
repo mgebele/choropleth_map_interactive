@@ -1,0 +1,2449 @@
+period_begin,period_end,period_duration,state,state_code,search_word
+2022-01-02,2022-01-08,7,Alabama,AL,Eli
+2022-01-09,2022-01-15,7,Alabama,AL,Jackson
+2022-01-16,2022-01-22,7,Alabama,AL,Miles
+2022-01-23,2022-01-29,7,Alabama,AL,Derrick
+2022-01-30,2022-02-05,7,Alabama,AL,William
+2022-02-06,2022-02-12,7,Alabama,AL,Nolan
+2022-02-13,2022-02-19,7,Alabama,AL,Hudson
+2022-02-20,2022-02-26,7,Alabama,AL,Miles
+2022-02-27,2022-03-05,7,Alabama,AL,Eli
+2022-03-06,2022-03-12,7,Alabama,AL,Jayden
+2022-03-13,2022-03-19,7,Alabama,AL,Nolan
+2022-03-20,2022-03-26,7,Alabama,AL,Jackson
+2022-03-27,2022-04-02,7,Alabama,AL,Jackson
+2022-04-03,2022-04-09,7,Alabama,AL,Nicholas
+2022-04-10,2022-04-16,7,Alabama,AL,Julian
+2022-04-17,2022-04-23,7,Alabama,AL,Jackson
+2022-04-24,2022-04-30,7,Alabama,AL,Andrew
+2022-05-01,2022-05-07,7,Alabama,AL,Eli
+2022-05-08,2022-05-14,7,Alabama,AL,Nicholas
+2022-05-15,2022-05-21,7,Alabama,AL,Julian
+2022-05-22,2022-05-28,7,Alabama,AL,Adam
+2022-05-29,2022-06-04,7,Alabama,AL,Jackson
+2022-06-05,2022-06-11,7,Alabama,AL,Andrew
+2022-06-12,2022-06-18,7,Alabama,AL,Ryan
+2022-06-19,2022-06-25,7,Alabama,AL,Jackson
+2022-06-26,2022-07-02,7,Alabama,AL,Eli
+2022-07-03,2022-07-09,7,Alabama,AL,Hudson
+2022-07-10,2022-07-16,7,Alabama,AL,Nolan
+2022-07-17,2022-07-23,7,Alabama,AL,Isaiah
+2022-07-24,2022-07-30,7,Alabama,AL,Andrew
+2022-07-31,2022-08-06,7,Alabama,AL,Eli
+2022-08-07,2022-08-13,7,Alabama,AL,Theodore
+2022-08-14,2022-08-20,7,Alabama,AL,Derrick
+2022-08-21,2022-08-27,7,Alabama,AL,Jayden
+2022-08-28,2022-09-03,7,Alabama,AL,Eli
+2022-09-04,2022-09-10,7,Alabama,AL,Eli
+2022-09-11,2022-09-17,7,Alabama,AL,Jackson
+2022-09-18,2022-09-24,7,Alabama,AL,Jackson
+2022-09-25,2022-10-01,7,Alabama,AL,Hudson
+2022-10-02,2022-10-08,7,Alabama,AL,Christian
+2022-10-09,2022-10-15,7,Alabama,AL,Andrew
+2022-10-16,2022-10-22,7,Alabama,AL,Nicholas
+2022-10-23,2022-10-29,7,Alabama,AL,Hudson
+2022-10-30,2022-11-05,7,Alabama,AL,Jackson
+2022-11-06,2022-11-12,7,Alabama,AL,Andrew
+2022-11-13,2022-11-19,7,Alabama,AL,Jayden
+2022-11-20,2022-11-26,7,Alabama,AL,William
+2022-11-27,2022-12-03,7,Alabama,AL,William
+2022-01-02,2022-01-08,7,Alaska,AK,Eli
+2022-01-09,2022-01-15,7,Alaska,AK,Jackson
+2022-01-16,2022-01-22,7,Alaska,AK,Miles
+2022-01-23,2022-01-29,7,Alaska,AK,Derrick
+2022-01-30,2022-02-05,7,Alaska,AK,William
+2022-02-06,2022-02-12,7,Alaska,AK,Nolan
+2022-02-13,2022-02-19,7,Alaska,AK,Hudson
+2022-02-20,2022-02-26,7,Alaska,AK,Miles
+2022-02-27,2022-03-05,7,Alaska,AK,Eli
+2022-03-06,2022-03-12,7,Alaska,AK,Jayden
+2022-03-13,2022-03-19,7,Alaska,AK,Nolan
+2022-03-20,2022-03-26,7,Alaska,AK,Jackson
+2022-03-27,2022-04-02,7,Alaska,AK,Jackson
+2022-04-03,2022-04-09,7,Alaska,AK,Nicholas
+2022-04-10,2022-04-16,7,Alaska,AK,Julian
+2022-04-17,2022-04-23,7,Alaska,AK,Jackson
+2022-04-24,2022-04-30,7,Alaska,AK,Andrew
+2022-05-01,2022-05-07,7,Alaska,AK,Eli
+2022-05-08,2022-05-14,7,Alaska,AK,Nicholas
+2022-05-15,2022-05-21,7,Alaska,AK,Julian
+2022-05-22,2022-05-28,7,Alaska,AK,Adam
+2022-05-29,2022-06-04,7,Alaska,AK,Jackson
+2022-06-05,2022-06-11,7,Alaska,AK,Andrew
+2022-06-12,2022-06-18,7,Alaska,AK,Ryan
+2022-06-19,2022-06-25,7,Alaska,AK,Jackson
+2022-06-26,2022-07-02,7,Alaska,AK,Eli
+2022-07-03,2022-07-09,7,Alaska,AK,Hudson
+2022-07-10,2022-07-16,7,Alaska,AK,Nolan
+2022-07-17,2022-07-23,7,Alaska,AK,Isaiah
+2022-07-24,2022-07-30,7,Alaska,AK,Andrew
+2022-07-31,2022-08-06,7,Alaska,AK,Eli
+2022-08-07,2022-08-13,7,Alaska,AK,Theodore
+2022-08-14,2022-08-20,7,Alaska,AK,Derrick
+2022-08-21,2022-08-27,7,Alaska,AK,Jayden
+2022-08-28,2022-09-03,7,Alaska,AK,Eli
+2022-09-04,2022-09-10,7,Alaska,AK,Eli
+2022-09-11,2022-09-17,7,Alaska,AK,Jackson
+2022-09-18,2022-09-24,7,Alaska,AK,Jackson
+2022-09-25,2022-10-01,7,Alaska,AK,Hudson
+2022-10-02,2022-10-08,7,Alaska,AK,Christian
+2022-10-09,2022-10-15,7,Alaska,AK,Andrew
+2022-10-16,2022-10-22,7,Alaska,AK,Nicholas
+2022-10-23,2022-10-29,7,Alaska,AK,Hudson
+2022-10-30,2022-11-05,7,Alaska,AK,Jackson
+2022-11-06,2022-11-12,7,Alaska,AK,Andrew
+2022-11-13,2022-11-19,7,Alaska,AK,Jayden
+2022-11-20,2022-11-26,7,Alaska,AK,William
+2022-11-27,2022-12-03,7,Alaska,AK,William
+2022-01-02,2022-01-08,7,Arizona,AZ,Eli
+2022-01-09,2022-01-15,7,Arizona,AZ,Jackson
+2022-01-16,2022-01-22,7,Arizona,AZ,Miles
+2022-01-23,2022-01-29,7,Arizona,AZ,Derrick
+2022-01-30,2022-02-05,7,Arizona,AZ,William
+2022-02-06,2022-02-12,7,Arizona,AZ,Nolan
+2022-02-13,2022-02-19,7,Arizona,AZ,Hudson
+2022-02-20,2022-02-26,7,Arizona,AZ,Miles
+2022-02-27,2022-03-05,7,Arizona,AZ,Eli
+2022-03-06,2022-03-12,7,Arizona,AZ,Jayden
+2022-03-13,2022-03-19,7,Arizona,AZ,Nolan
+2022-03-20,2022-03-26,7,Arizona,AZ,Jackson
+2022-03-27,2022-04-02,7,Arizona,AZ,Jackson
+2022-04-03,2022-04-09,7,Arizona,AZ,Nicholas
+2022-04-10,2022-04-16,7,Arizona,AZ,Julian
+2022-04-17,2022-04-23,7,Arizona,AZ,Jackson
+2022-04-24,2022-04-30,7,Arizona,AZ,Andrew
+2022-05-01,2022-05-07,7,Arizona,AZ,Eli
+2022-05-08,2022-05-14,7,Arizona,AZ,Nicholas
+2022-05-15,2022-05-21,7,Arizona,AZ,Julian
+2022-05-22,2022-05-28,7,Arizona,AZ,Adam
+2022-05-29,2022-06-04,7,Arizona,AZ,Jackson
+2022-06-05,2022-06-11,7,Arizona,AZ,Andrew
+2022-06-12,2022-06-18,7,Arizona,AZ,Ryan
+2022-06-19,2022-06-25,7,Arizona,AZ,Jackson
+2022-06-26,2022-07-02,7,Arizona,AZ,Eli
+2022-07-03,2022-07-09,7,Arizona,AZ,Hudson
+2022-07-10,2022-07-16,7,Arizona,AZ,Nolan
+2022-07-17,2022-07-23,7,Arizona,AZ,Isaiah
+2022-07-24,2022-07-30,7,Arizona,AZ,Andrew
+2022-07-31,2022-08-06,7,Arizona,AZ,Eli
+2022-08-07,2022-08-13,7,Arizona,AZ,Theodore
+2022-08-14,2022-08-20,7,Arizona,AZ,Derrick
+2022-08-21,2022-08-27,7,Arizona,AZ,Jayden
+2022-08-28,2022-09-03,7,Arizona,AZ,Eli
+2022-09-04,2022-09-10,7,Arizona,AZ,Eli
+2022-09-11,2022-09-17,7,Arizona,AZ,Jackson
+2022-09-18,2022-09-24,7,Arizona,AZ,Jackson
+2022-09-25,2022-10-01,7,Arizona,AZ,Hudson
+2022-10-02,2022-10-08,7,Arizona,AZ,Christian
+2022-10-09,2022-10-15,7,Arizona,AZ,Andrew
+2022-10-16,2022-10-22,7,Arizona,AZ,Nicholas
+2022-10-23,2022-10-29,7,Arizona,AZ,Hudson
+2022-10-30,2022-11-05,7,Arizona,AZ,Jackson
+2022-11-06,2022-11-12,7,Arizona,AZ,Andrew
+2022-11-13,2022-11-19,7,Arizona,AZ,Jayden
+2022-11-20,2022-11-26,7,Arizona,AZ,William
+2022-11-27,2022-12-03,7,Arizona,AZ,William
+2022-01-02,2022-01-08,7,Arkansas,AR,Eli
+2022-01-09,2022-01-15,7,Arkansas,AR,Jackson
+2022-01-16,2022-01-22,7,Arkansas,AR,Miles
+2022-01-23,2022-01-29,7,Arkansas,AR,Derrick
+2022-01-30,2022-02-05,7,Arkansas,AR,William
+2022-02-06,2022-02-12,7,Arkansas,AR,Nolan
+2022-02-13,2022-02-19,7,Arkansas,AR,Hudson
+2022-02-20,2022-02-26,7,Arkansas,AR,Miles
+2022-02-27,2022-03-05,7,Arkansas,AR,Eli
+2022-03-06,2022-03-12,7,Arkansas,AR,Jayden
+2022-03-13,2022-03-19,7,Arkansas,AR,Nolan
+2022-03-20,2022-03-26,7,Arkansas,AR,Jackson
+2022-03-27,2022-04-02,7,Arkansas,AR,Jackson
+2022-04-03,2022-04-09,7,Arkansas,AR,Nicholas
+2022-04-10,2022-04-16,7,Arkansas,AR,Julian
+2022-04-17,2022-04-23,7,Arkansas,AR,Jackson
+2022-04-24,2022-04-30,7,Arkansas,AR,Andrew
+2022-05-01,2022-05-07,7,Arkansas,AR,Eli
+2022-05-08,2022-05-14,7,Arkansas,AR,Nicholas
+2022-05-15,2022-05-21,7,Arkansas,AR,Julian
+2022-05-22,2022-05-28,7,Arkansas,AR,Adam
+2022-05-29,2022-06-04,7,Arkansas,AR,Jackson
+2022-06-05,2022-06-11,7,Arkansas,AR,Andrew
+2022-06-12,2022-06-18,7,Arkansas,AR,Ryan
+2022-06-19,2022-06-25,7,Arkansas,AR,Jackson
+2022-06-26,2022-07-02,7,Arkansas,AR,Eli
+2022-07-03,2022-07-09,7,Arkansas,AR,Hudson
+2022-07-10,2022-07-16,7,Arkansas,AR,Nolan
+2022-07-17,2022-07-23,7,Arkansas,AR,Isaiah
+2022-07-24,2022-07-30,7,Arkansas,AR,Andrew
+2022-07-31,2022-08-06,7,Arkansas,AR,Eli
+2022-08-07,2022-08-13,7,Arkansas,AR,Theodore
+2022-08-14,2022-08-20,7,Arkansas,AR,Derrick
+2022-08-21,2022-08-27,7,Arkansas,AR,Jayden
+2022-08-28,2022-09-03,7,Arkansas,AR,Eli
+2022-09-04,2022-09-10,7,Arkansas,AR,Eli
+2022-09-11,2022-09-17,7,Arkansas,AR,Jackson
+2022-09-18,2022-09-24,7,Arkansas,AR,Jackson
+2022-09-25,2022-10-01,7,Arkansas,AR,Hudson
+2022-10-02,2022-10-08,7,Arkansas,AR,Christian
+2022-10-09,2022-10-15,7,Arkansas,AR,Andrew
+2022-10-16,2022-10-22,7,Arkansas,AR,Nicholas
+2022-10-23,2022-10-29,7,Arkansas,AR,Hudson
+2022-10-30,2022-11-05,7,Arkansas,AR,Jackson
+2022-11-06,2022-11-12,7,Arkansas,AR,Andrew
+2022-11-13,2022-11-19,7,Arkansas,AR,Jayden
+2022-11-20,2022-11-26,7,Arkansas,AR,William
+2022-11-27,2022-12-03,7,Arkansas,AR,William
+2022-01-02,2022-01-08,7,California,CA,Eli
+2022-01-09,2022-01-15,7,California,CA,Jackson
+2022-01-16,2022-01-22,7,California,CA,Miles
+2022-01-23,2022-01-29,7,California,CA,Derrick
+2022-01-30,2022-02-05,7,California,CA,William
+2022-02-06,2022-02-12,7,California,CA,Nolan
+2022-02-13,2022-02-19,7,California,CA,Hudson
+2022-02-20,2022-02-26,7,California,CA,Miles
+2022-02-27,2022-03-05,7,California,CA,Eli
+2022-03-06,2022-03-12,7,California,CA,Jayden
+2022-03-13,2022-03-19,7,California,CA,Nolan
+2022-03-20,2022-03-26,7,California,CA,Jackson
+2022-03-27,2022-04-02,7,California,CA,Jackson
+2022-04-03,2022-04-09,7,California,CA,Nicholas
+2022-04-10,2022-04-16,7,California,CA,Julian
+2022-04-17,2022-04-23,7,California,CA,Jackson
+2022-04-24,2022-04-30,7,California,CA,Andrew
+2022-05-01,2022-05-07,7,California,CA,Eli
+2022-05-08,2022-05-14,7,California,CA,Nicholas
+2022-05-15,2022-05-21,7,California,CA,Julian
+2022-05-22,2022-05-28,7,California,CA,Adam
+2022-05-29,2022-06-04,7,California,CA,Jackson
+2022-06-05,2022-06-11,7,California,CA,Andrew
+2022-06-12,2022-06-18,7,California,CA,Ryan
+2022-06-19,2022-06-25,7,California,CA,Jackson
+2022-06-26,2022-07-02,7,California,CA,Eli
+2022-07-03,2022-07-09,7,California,CA,Hudson
+2022-07-10,2022-07-16,7,California,CA,Nolan
+2022-07-17,2022-07-23,7,California,CA,Isaiah
+2022-07-24,2022-07-30,7,California,CA,Andrew
+2022-07-31,2022-08-06,7,California,CA,Eli
+2022-08-07,2022-08-13,7,California,CA,Theodore
+2022-08-14,2022-08-20,7,California,CA,Derrick
+2022-08-21,2022-08-27,7,California,CA,Jayden
+2022-08-28,2022-09-03,7,California,CA,Eli
+2022-09-04,2022-09-10,7,California,CA,Eli
+2022-09-11,2022-09-17,7,California,CA,Jackson
+2022-09-18,2022-09-24,7,California,CA,Jackson
+2022-09-25,2022-10-01,7,California,CA,Hudson
+2022-10-02,2022-10-08,7,California,CA,Christian
+2022-10-09,2022-10-15,7,California,CA,Andrew
+2022-10-16,2022-10-22,7,California,CA,Nicholas
+2022-10-23,2022-10-29,7,California,CA,Hudson
+2022-10-30,2022-11-05,7,California,CA,Jackson
+2022-11-06,2022-11-12,7,California,CA,Andrew
+2022-11-13,2022-11-19,7,California,CA,Jayden
+2022-11-20,2022-11-26,7,California,CA,William
+2022-11-27,2022-12-03,7,California,CA,William
+2022-01-02,2022-01-08,7,Colorado,CO,Eli
+2022-01-09,2022-01-15,7,Colorado,CO,Jackson
+2022-01-16,2022-01-22,7,Colorado,CO,Miles
+2022-01-23,2022-01-29,7,Colorado,CO,Derrick
+2022-01-30,2022-02-05,7,Colorado,CO,William
+2022-02-06,2022-02-12,7,Colorado,CO,Nolan
+2022-02-13,2022-02-19,7,Colorado,CO,Hudson
+2022-02-20,2022-02-26,7,Colorado,CO,Miles
+2022-02-27,2022-03-05,7,Colorado,CO,Eli
+2022-03-06,2022-03-12,7,Colorado,CO,Jayden
+2022-03-13,2022-03-19,7,Colorado,CO,Nolan
+2022-03-20,2022-03-26,7,Colorado,CO,Jackson
+2022-03-27,2022-04-02,7,Colorado,CO,Jackson
+2022-04-03,2022-04-09,7,Colorado,CO,Nicholas
+2022-04-10,2022-04-16,7,Colorado,CO,Julian
+2022-04-17,2022-04-23,7,Colorado,CO,Jackson
+2022-04-24,2022-04-30,7,Colorado,CO,Andrew
+2022-05-01,2022-05-07,7,Colorado,CO,Eli
+2022-05-08,2022-05-14,7,Colorado,CO,Nicholas
+2022-05-15,2022-05-21,7,Colorado,CO,Julian
+2022-05-22,2022-05-28,7,Colorado,CO,Adam
+2022-05-29,2022-06-04,7,Colorado,CO,Jackson
+2022-06-05,2022-06-11,7,Colorado,CO,Andrew
+2022-06-12,2022-06-18,7,Colorado,CO,Ryan
+2022-06-19,2022-06-25,7,Colorado,CO,Jackson
+2022-06-26,2022-07-02,7,Colorado,CO,Eli
+2022-07-03,2022-07-09,7,Colorado,CO,Hudson
+2022-07-10,2022-07-16,7,Colorado,CO,Nolan
+2022-07-17,2022-07-23,7,Colorado,CO,Isaiah
+2022-07-24,2022-07-30,7,Colorado,CO,Andrew
+2022-07-31,2022-08-06,7,Colorado,CO,Eli
+2022-08-07,2022-08-13,7,Colorado,CO,Theodore
+2022-08-14,2022-08-20,7,Colorado,CO,Derrick
+2022-08-21,2022-08-27,7,Colorado,CO,Jayden
+2022-08-28,2022-09-03,7,Colorado,CO,Eli
+2022-09-04,2022-09-10,7,Colorado,CO,Eli
+2022-09-11,2022-09-17,7,Colorado,CO,Jackson
+2022-09-18,2022-09-24,7,Colorado,CO,Jackson
+2022-09-25,2022-10-01,7,Colorado,CO,Hudson
+2022-10-02,2022-10-08,7,Colorado,CO,Christian
+2022-10-09,2022-10-15,7,Colorado,CO,Andrew
+2022-10-16,2022-10-22,7,Colorado,CO,Nicholas
+2022-10-23,2022-10-29,7,Colorado,CO,Hudson
+2022-10-30,2022-11-05,7,Colorado,CO,Jackson
+2022-11-06,2022-11-12,7,Colorado,CO,Andrew
+2022-11-13,2022-11-19,7,Colorado,CO,Jayden
+2022-11-20,2022-11-26,7,Colorado,CO,William
+2022-11-27,2022-12-03,7,Colorado,CO,William
+2022-01-02,2022-01-08,7,Connecticut,CT,Eli
+2022-01-09,2022-01-15,7,Connecticut,CT,Jackson
+2022-01-16,2022-01-22,7,Connecticut,CT,Miles
+2022-01-23,2022-01-29,7,Connecticut,CT,Derrick
+2022-01-30,2022-02-05,7,Connecticut,CT,William
+2022-02-06,2022-02-12,7,Connecticut,CT,Nolan
+2022-02-13,2022-02-19,7,Connecticut,CT,Hudson
+2022-02-20,2022-02-26,7,Connecticut,CT,Miles
+2022-02-27,2022-03-05,7,Connecticut,CT,Eli
+2022-03-06,2022-03-12,7,Connecticut,CT,Jayden
+2022-03-13,2022-03-19,7,Connecticut,CT,Nolan
+2022-03-20,2022-03-26,7,Connecticut,CT,Jackson
+2022-03-27,2022-04-02,7,Connecticut,CT,Jackson
+2022-04-03,2022-04-09,7,Connecticut,CT,Nicholas
+2022-04-10,2022-04-16,7,Connecticut,CT,Julian
+2022-04-17,2022-04-23,7,Connecticut,CT,Jackson
+2022-04-24,2022-04-30,7,Connecticut,CT,Andrew
+2022-05-01,2022-05-07,7,Connecticut,CT,Eli
+2022-05-08,2022-05-14,7,Connecticut,CT,Nicholas
+2022-05-15,2022-05-21,7,Connecticut,CT,Julian
+2022-05-22,2022-05-28,7,Connecticut,CT,Adam
+2022-05-29,2022-06-04,7,Connecticut,CT,Jackson
+2022-06-05,2022-06-11,7,Connecticut,CT,Andrew
+2022-06-12,2022-06-18,7,Connecticut,CT,Ryan
+2022-06-19,2022-06-25,7,Connecticut,CT,Jackson
+2022-06-26,2022-07-02,7,Connecticut,CT,Eli
+2022-07-03,2022-07-09,7,Connecticut,CT,Hudson
+2022-07-10,2022-07-16,7,Connecticut,CT,Nolan
+2022-07-17,2022-07-23,7,Connecticut,CT,Isaiah
+2022-07-24,2022-07-30,7,Connecticut,CT,Andrew
+2022-07-31,2022-08-06,7,Connecticut,CT,Eli
+2022-08-07,2022-08-13,7,Connecticut,CT,Theodore
+2022-08-14,2022-08-20,7,Connecticut,CT,Derrick
+2022-08-21,2022-08-27,7,Connecticut,CT,Jayden
+2022-08-28,2022-09-03,7,Connecticut,CT,Eli
+2022-09-04,2022-09-10,7,Connecticut,CT,Eli
+2022-09-11,2022-09-17,7,Connecticut,CT,Jackson
+2022-09-18,2022-09-24,7,Connecticut,CT,Jackson
+2022-09-25,2022-10-01,7,Connecticut,CT,Hudson
+2022-10-02,2022-10-08,7,Connecticut,CT,Christian
+2022-10-09,2022-10-15,7,Connecticut,CT,Andrew
+2022-10-16,2022-10-22,7,Connecticut,CT,Nicholas
+2022-10-23,2022-10-29,7,Connecticut,CT,Hudson
+2022-10-30,2022-11-05,7,Connecticut,CT,Jackson
+2022-11-06,2022-11-12,7,Connecticut,CT,Andrew
+2022-11-13,2022-11-19,7,Connecticut,CT,Jayden
+2022-11-20,2022-11-26,7,Connecticut,CT,William
+2022-11-27,2022-12-03,7,Connecticut,CT,William
+2022-01-02,2022-01-08,7,Delaware,DE,Eli
+2022-01-09,2022-01-15,7,Delaware,DE,Jackson
+2022-01-16,2022-01-22,7,Delaware,DE,Miles
+2022-01-23,2022-01-29,7,Delaware,DE,Derrick
+2022-01-30,2022-02-05,7,Delaware,DE,William
+2022-02-06,2022-02-12,7,Delaware,DE,Nolan
+2022-02-13,2022-02-19,7,Delaware,DE,Hudson
+2022-02-20,2022-02-26,7,Delaware,DE,Miles
+2022-02-27,2022-03-05,7,Delaware,DE,Eli
+2022-03-06,2022-03-12,7,Delaware,DE,Jayden
+2022-03-13,2022-03-19,7,Delaware,DE,Nolan
+2022-03-20,2022-03-26,7,Delaware,DE,Jackson
+2022-03-27,2022-04-02,7,Delaware,DE,Jackson
+2022-04-03,2022-04-09,7,Delaware,DE,Nicholas
+2022-04-10,2022-04-16,7,Delaware,DE,Julian
+2022-04-17,2022-04-23,7,Delaware,DE,Jackson
+2022-04-24,2022-04-30,7,Delaware,DE,Andrew
+2022-05-01,2022-05-07,7,Delaware,DE,Eli
+2022-05-08,2022-05-14,7,Delaware,DE,Nicholas
+2022-05-15,2022-05-21,7,Delaware,DE,Julian
+2022-05-22,2022-05-28,7,Delaware,DE,Adam
+2022-05-29,2022-06-04,7,Delaware,DE,Jackson
+2022-06-05,2022-06-11,7,Delaware,DE,Andrew
+2022-06-12,2022-06-18,7,Delaware,DE,Ryan
+2022-06-19,2022-06-25,7,Delaware,DE,Jackson
+2022-06-26,2022-07-02,7,Delaware,DE,Eli
+2022-07-03,2022-07-09,7,Delaware,DE,Hudson
+2022-07-10,2022-07-16,7,Delaware,DE,Nolan
+2022-07-17,2022-07-23,7,Delaware,DE,Isaiah
+2022-07-24,2022-07-30,7,Delaware,DE,Andrew
+2022-07-31,2022-08-06,7,Delaware,DE,Eli
+2022-08-07,2022-08-13,7,Delaware,DE,Theodore
+2022-08-14,2022-08-20,7,Delaware,DE,Derrick
+2022-08-21,2022-08-27,7,Delaware,DE,Jayden
+2022-08-28,2022-09-03,7,Delaware,DE,Eli
+2022-09-04,2022-09-10,7,Delaware,DE,Eli
+2022-09-11,2022-09-17,7,Delaware,DE,Jackson
+2022-09-18,2022-09-24,7,Delaware,DE,Jackson
+2022-09-25,2022-10-01,7,Delaware,DE,Hudson
+2022-10-02,2022-10-08,7,Delaware,DE,Christian
+2022-10-09,2022-10-15,7,Delaware,DE,Andrew
+2022-10-16,2022-10-22,7,Delaware,DE,Nicholas
+2022-10-23,2022-10-29,7,Delaware,DE,Hudson
+2022-10-30,2022-11-05,7,Delaware,DE,Jackson
+2022-11-06,2022-11-12,7,Delaware,DE,Andrew
+2022-11-13,2022-11-19,7,Delaware,DE,Jayden
+2022-11-20,2022-11-26,7,Delaware,DE,William
+2022-11-27,2022-12-03,7,Delaware,DE,William
+2022-01-02,2022-01-08,7,District of Columbia,DC,Eli
+2022-01-09,2022-01-15,7,District of Columbia,DC,Jackson
+2022-01-16,2022-01-22,7,District of Columbia,DC,Miles
+2022-01-23,2022-01-29,7,District of Columbia,DC,Derrick
+2022-01-30,2022-02-05,7,District of Columbia,DC,William
+2022-02-06,2022-02-12,7,District of Columbia,DC,Nolan
+2022-02-13,2022-02-19,7,District of Columbia,DC,Hudson
+2022-02-20,2022-02-26,7,District of Columbia,DC,Miles
+2022-02-27,2022-03-05,7,District of Columbia,DC,Eli
+2022-03-06,2022-03-12,7,District of Columbia,DC,Jayden
+2022-03-13,2022-03-19,7,District of Columbia,DC,Nolan
+2022-03-20,2022-03-26,7,District of Columbia,DC,Jackson
+2022-03-27,2022-04-02,7,District of Columbia,DC,Jackson
+2022-04-03,2022-04-09,7,District of Columbia,DC,Nicholas
+2022-04-10,2022-04-16,7,District of Columbia,DC,Julian
+2022-04-17,2022-04-23,7,District of Columbia,DC,Jackson
+2022-04-24,2022-04-30,7,District of Columbia,DC,Andrew
+2022-05-01,2022-05-07,7,District of Columbia,DC,Eli
+2022-05-08,2022-05-14,7,District of Columbia,DC,Nicholas
+2022-05-15,2022-05-21,7,District of Columbia,DC,Julian
+2022-05-22,2022-05-28,7,District of Columbia,DC,Adam
+2022-05-29,2022-06-04,7,District of Columbia,DC,Jackson
+2022-06-05,2022-06-11,7,District of Columbia,DC,Andrew
+2022-06-12,2022-06-18,7,District of Columbia,DC,Ryan
+2022-06-19,2022-06-25,7,District of Columbia,DC,Jackson
+2022-06-26,2022-07-02,7,District of Columbia,DC,Eli
+2022-07-03,2022-07-09,7,District of Columbia,DC,Hudson
+2022-07-10,2022-07-16,7,District of Columbia,DC,Nolan
+2022-07-17,2022-07-23,7,District of Columbia,DC,Isaiah
+2022-07-24,2022-07-30,7,District of Columbia,DC,Andrew
+2022-07-31,2022-08-06,7,District of Columbia,DC,Eli
+2022-08-07,2022-08-13,7,District of Columbia,DC,Theodore
+2022-08-14,2022-08-20,7,District of Columbia,DC,Derrick
+2022-08-21,2022-08-27,7,District of Columbia,DC,Jayden
+2022-08-28,2022-09-03,7,District of Columbia,DC,Eli
+2022-09-04,2022-09-10,7,District of Columbia,DC,Eli
+2022-09-11,2022-09-17,7,District of Columbia,DC,Jackson
+2022-09-18,2022-09-24,7,District of Columbia,DC,Jackson
+2022-09-25,2022-10-01,7,District of Columbia,DC,Hudson
+2022-10-02,2022-10-08,7,District of Columbia,DC,Christian
+2022-10-09,2022-10-15,7,District of Columbia,DC,Andrew
+2022-10-16,2022-10-22,7,District of Columbia,DC,Nicholas
+2022-10-23,2022-10-29,7,District of Columbia,DC,Hudson
+2022-10-30,2022-11-05,7,District of Columbia,DC,Jackson
+2022-11-06,2022-11-12,7,District of Columbia,DC,Andrew
+2022-11-13,2022-11-19,7,District of Columbia,DC,Jayden
+2022-11-20,2022-11-26,7,District of Columbia,DC,William
+2022-11-27,2022-12-03,7,District of Columbia,DC,William
+2022-01-02,2022-01-08,7,Florida,FL,Eli
+2022-01-09,2022-01-15,7,Florida,FL,Jackson
+2022-01-16,2022-01-22,7,Florida,FL,Miles
+2022-01-23,2022-01-29,7,Florida,FL,Derrick
+2022-01-30,2022-02-05,7,Florida,FL,William
+2022-02-06,2022-02-12,7,Florida,FL,Nolan
+2022-02-13,2022-02-19,7,Florida,FL,Hudson
+2022-02-20,2022-02-26,7,Florida,FL,Miles
+2022-02-27,2022-03-05,7,Florida,FL,Eli
+2022-03-06,2022-03-12,7,Florida,FL,Jayden
+2022-03-13,2022-03-19,7,Florida,FL,Nolan
+2022-03-20,2022-03-26,7,Florida,FL,Jackson
+2022-03-27,2022-04-02,7,Florida,FL,Jackson
+2022-04-03,2022-04-09,7,Florida,FL,Nicholas
+2022-04-10,2022-04-16,7,Florida,FL,Julian
+2022-04-17,2022-04-23,7,Florida,FL,Jackson
+2022-04-24,2022-04-30,7,Florida,FL,Andrew
+2022-05-01,2022-05-07,7,Florida,FL,Eli
+2022-05-08,2022-05-14,7,Florida,FL,Nicholas
+2022-05-15,2022-05-21,7,Florida,FL,Julian
+2022-05-22,2022-05-28,7,Florida,FL,Adam
+2022-05-29,2022-06-04,7,Florida,FL,Jackson
+2022-06-05,2022-06-11,7,Florida,FL,Andrew
+2022-06-12,2022-06-18,7,Florida,FL,Ryan
+2022-06-19,2022-06-25,7,Florida,FL,Jackson
+2022-06-26,2022-07-02,7,Florida,FL,Eli
+2022-07-03,2022-07-09,7,Florida,FL,Hudson
+2022-07-10,2022-07-16,7,Florida,FL,Nolan
+2022-07-17,2022-07-23,7,Florida,FL,Isaiah
+2022-07-24,2022-07-30,7,Florida,FL,Andrew
+2022-07-31,2022-08-06,7,Florida,FL,Eli
+2022-08-07,2022-08-13,7,Florida,FL,Theodore
+2022-08-14,2022-08-20,7,Florida,FL,Derrick
+2022-08-21,2022-08-27,7,Florida,FL,Jayden
+2022-08-28,2022-09-03,7,Florida,FL,Eli
+2022-09-04,2022-09-10,7,Florida,FL,Eli
+2022-09-11,2022-09-17,7,Florida,FL,Jackson
+2022-09-18,2022-09-24,7,Florida,FL,Jackson
+2022-09-25,2022-10-01,7,Florida,FL,Hudson
+2022-10-02,2022-10-08,7,Florida,FL,Christian
+2022-10-09,2022-10-15,7,Florida,FL,Andrew
+2022-10-16,2022-10-22,7,Florida,FL,Nicholas
+2022-10-23,2022-10-29,7,Florida,FL,Hudson
+2022-10-30,2022-11-05,7,Florida,FL,Jackson
+2022-11-06,2022-11-12,7,Florida,FL,Andrew
+2022-11-13,2022-11-19,7,Florida,FL,Jayden
+2022-11-20,2022-11-26,7,Florida,FL,William
+2022-11-27,2022-12-03,7,Florida,FL,William
+2022-01-02,2022-01-08,7,Georgia,GA,Eli
+2022-01-09,2022-01-15,7,Georgia,GA,Eli
+2022-01-16,2022-01-22,7,Georgia,GA,Eli
+2022-01-23,2022-01-29,7,Georgia,GA,Derrick
+2022-01-30,2022-02-05,7,Georgia,GA,William
+2022-02-06,2022-02-12,7,Georgia,GA,Nolan
+2022-02-13,2022-02-19,7,Georgia,GA,Nolan
+2022-02-20,2022-02-26,7,Georgia,GA,Nolan
+2022-02-27,2022-03-05,7,Georgia,GA,Nolan
+2022-03-06,2022-03-12,7,Georgia,GA,Jayden
+2022-03-13,2022-03-19,7,Georgia,GA,Nolan
+2022-03-20,2022-03-26,7,Georgia,GA,Jackson
+2022-03-27,2022-04-02,7,Georgia,GA,Jackson
+2022-04-03,2022-04-09,7,Georgia,GA,Jackson
+2022-04-10,2022-04-16,7,Georgia,GA,Jackson
+2022-04-17,2022-04-23,7,Georgia,GA,Jackson
+2022-04-24,2022-04-30,7,Georgia,GA,Andrew
+2022-05-01,2022-05-07,7,Georgia,GA,Eli
+2022-05-08,2022-05-14,7,Georgia,GA,Nicholas
+2022-05-15,2022-05-21,7,Georgia,GA,Julian
+2022-05-22,2022-05-28,7,Georgia,GA,Adam
+2022-05-29,2022-06-04,7,Georgia,GA,Jackson
+2022-06-05,2022-06-11,7,Georgia,GA,Andrew
+2022-06-12,2022-06-18,7,Georgia,GA,Ryan
+2022-06-19,2022-06-25,7,Georgia,GA,Ryan
+2022-06-26,2022-07-02,7,Georgia,GA,Ryan
+2022-07-03,2022-07-09,7,Georgia,GA,Ryan
+2022-07-10,2022-07-16,7,Georgia,GA,Nolan
+2022-07-17,2022-07-23,7,Georgia,GA,Isaiah
+2022-07-24,2022-07-30,7,Georgia,GA,Andrew
+2022-07-31,2022-08-06,7,Georgia,GA,Eli
+2022-08-07,2022-08-13,7,Georgia,GA,Theodore
+2022-08-14,2022-08-20,7,Georgia,GA,Theodore
+2022-08-21,2022-08-27,7,Georgia,GA,Theodore
+2022-08-28,2022-09-03,7,Georgia,GA,Theodore
+2022-09-04,2022-09-10,7,Georgia,GA,Eli
+2022-09-11,2022-09-17,7,Georgia,GA,Jackson
+2022-09-18,2022-09-24,7,Georgia,GA,Jackson
+2022-09-25,2022-10-01,7,Georgia,GA,Hudson
+2022-10-02,2022-10-08,7,Georgia,GA,Christian
+2022-10-09,2022-10-15,7,Georgia,GA,Andrew
+2022-10-16,2022-10-22,7,Georgia,GA,Nicholas
+2022-10-23,2022-10-29,7,Georgia,GA,Hudson
+2022-10-30,2022-11-05,7,Georgia,GA,Jackson
+2022-11-06,2022-11-12,7,Georgia,GA,Andrew
+2022-11-13,2022-11-19,7,Georgia,GA,Jayden
+2022-11-20,2022-11-26,7,Georgia,GA,William
+2022-11-27,2022-12-03,7,Georgia,GA,William
+2022-01-02,2022-01-08,7,Hawaii,HI,Eli
+2022-01-09,2022-01-15,7,Hawaii,HI,Eli
+2022-01-16,2022-01-22,7,Hawaii,HI,Eli
+2022-01-23,2022-01-29,7,Hawaii,HI,Derrick
+2022-01-30,2022-02-05,7,Hawaii,HI,William
+2022-02-06,2022-02-12,7,Hawaii,HI,Nolan
+2022-02-13,2022-02-19,7,Hawaii,HI,Nolan
+2022-02-20,2022-02-26,7,Hawaii,HI,Nolan
+2022-02-27,2022-03-05,7,Hawaii,HI,Nolan
+2022-03-06,2022-03-12,7,Hawaii,HI,Jayden
+2022-03-13,2022-03-19,7,Hawaii,HI,Nolan
+2022-03-20,2022-03-26,7,Hawaii,HI,Jackson
+2022-03-27,2022-04-02,7,Hawaii,HI,Jackson
+2022-04-03,2022-04-09,7,Hawaii,HI,Jackson
+2022-04-10,2022-04-16,7,Hawaii,HI,Jackson
+2022-04-17,2022-04-23,7,Hawaii,HI,Jackson
+2022-04-24,2022-04-30,7,Hawaii,HI,Andrew
+2022-05-01,2022-05-07,7,Hawaii,HI,Eli
+2022-05-08,2022-05-14,7,Hawaii,HI,Nicholas
+2022-05-15,2022-05-21,7,Hawaii,HI,Julian
+2022-05-22,2022-05-28,7,Hawaii,HI,Adam
+2022-05-29,2022-06-04,7,Hawaii,HI,Jackson
+2022-06-05,2022-06-11,7,Hawaii,HI,Andrew
+2022-06-12,2022-06-18,7,Hawaii,HI,Ryan
+2022-06-19,2022-06-25,7,Hawaii,HI,Ryan
+2022-06-26,2022-07-02,7,Hawaii,HI,Ryan
+2022-07-03,2022-07-09,7,Hawaii,HI,Ryan
+2022-07-10,2022-07-16,7,Hawaii,HI,Nolan
+2022-07-17,2022-07-23,7,Hawaii,HI,Isaiah
+2022-07-24,2022-07-30,7,Hawaii,HI,Andrew
+2022-07-31,2022-08-06,7,Hawaii,HI,Eli
+2022-08-07,2022-08-13,7,Hawaii,HI,Theodore
+2022-08-14,2022-08-20,7,Hawaii,HI,Theodore
+2022-08-21,2022-08-27,7,Hawaii,HI,Theodore
+2022-08-28,2022-09-03,7,Hawaii,HI,Theodore
+2022-09-04,2022-09-10,7,Hawaii,HI,Eli
+2022-09-11,2022-09-17,7,Hawaii,HI,Jackson
+2022-09-18,2022-09-24,7,Hawaii,HI,Jackson
+2022-09-25,2022-10-01,7,Hawaii,HI,Hudson
+2022-10-02,2022-10-08,7,Hawaii,HI,Christian
+2022-10-09,2022-10-15,7,Hawaii,HI,Andrew
+2022-10-16,2022-10-22,7,Hawaii,HI,Nicholas
+2022-10-23,2022-10-29,7,Hawaii,HI,Hudson
+2022-10-30,2022-11-05,7,Hawaii,HI,Jackson
+2022-11-06,2022-11-12,7,Hawaii,HI,Andrew
+2022-11-13,2022-11-19,7,Hawaii,HI,Jayden
+2022-11-20,2022-11-26,7,Hawaii,HI,William
+2022-11-27,2022-12-03,7,Hawaii,HI,William
+2022-01-02,2022-01-08,7,Idaho,ID,Eli
+2022-01-09,2022-01-15,7,Idaho,ID,Eli
+2022-01-16,2022-01-22,7,Idaho,ID,Eli
+2022-01-23,2022-01-29,7,Idaho,ID,Derrick
+2022-01-30,2022-02-05,7,Idaho,ID,William
+2022-02-06,2022-02-12,7,Idaho,ID,Nolan
+2022-02-13,2022-02-19,7,Idaho,ID,Nolan
+2022-02-20,2022-02-26,7,Idaho,ID,Nolan
+2022-02-27,2022-03-05,7,Idaho,ID,Nolan
+2022-03-06,2022-03-12,7,Idaho,ID,Jayden
+2022-03-13,2022-03-19,7,Idaho,ID,Nolan
+2022-03-20,2022-03-26,7,Idaho,ID,Jackson
+2022-03-27,2022-04-02,7,Idaho,ID,Jackson
+2022-04-03,2022-04-09,7,Idaho,ID,Jackson
+2022-04-10,2022-04-16,7,Idaho,ID,Jackson
+2022-04-17,2022-04-23,7,Idaho,ID,Jackson
+2022-04-24,2022-04-30,7,Idaho,ID,Andrew
+2022-05-01,2022-05-07,7,Idaho,ID,Eli
+2022-05-08,2022-05-14,7,Idaho,ID,Nicholas
+2022-05-15,2022-05-21,7,Idaho,ID,Julian
+2022-05-22,2022-05-28,7,Idaho,ID,Adam
+2022-05-29,2022-06-04,7,Idaho,ID,Jackson
+2022-06-05,2022-06-11,7,Idaho,ID,Andrew
+2022-06-12,2022-06-18,7,Idaho,ID,Ryan
+2022-06-19,2022-06-25,7,Idaho,ID,Ryan
+2022-06-26,2022-07-02,7,Idaho,ID,Ryan
+2022-07-03,2022-07-09,7,Idaho,ID,Ryan
+2022-07-10,2022-07-16,7,Idaho,ID,Nolan
+2022-07-17,2022-07-23,7,Idaho,ID,Isaiah
+2022-07-24,2022-07-30,7,Idaho,ID,Andrew
+2022-07-31,2022-08-06,7,Idaho,ID,Eli
+2022-08-07,2022-08-13,7,Idaho,ID,Theodore
+2022-08-14,2022-08-20,7,Idaho,ID,Theodore
+2022-08-21,2022-08-27,7,Idaho,ID,Theodore
+2022-08-28,2022-09-03,7,Idaho,ID,Theodore
+2022-09-04,2022-09-10,7,Idaho,ID,Eli
+2022-09-11,2022-09-17,7,Idaho,ID,Jackson
+2022-09-18,2022-09-24,7,Idaho,ID,Jackson
+2022-09-25,2022-10-01,7,Idaho,ID,Hudson
+2022-10-02,2022-10-08,7,Idaho,ID,Christian
+2022-10-09,2022-10-15,7,Idaho,ID,Andrew
+2022-10-16,2022-10-22,7,Idaho,ID,Nicholas
+2022-10-23,2022-10-29,7,Idaho,ID,Hudson
+2022-10-30,2022-11-05,7,Idaho,ID,Jackson
+2022-11-06,2022-11-12,7,Idaho,ID,Andrew
+2022-11-13,2022-11-19,7,Idaho,ID,Jayden
+2022-11-20,2022-11-26,7,Idaho,ID,William
+2022-11-27,2022-12-03,7,Idaho,ID,William
+2022-01-02,2022-01-08,7,Illinois,IL,Eli
+2022-01-09,2022-01-15,7,Illinois,IL,Eli
+2022-01-16,2022-01-22,7,Illinois,IL,Eli
+2022-01-23,2022-01-29,7,Illinois,IL,Derrick
+2022-01-30,2022-02-05,7,Illinois,IL,William
+2022-02-06,2022-02-12,7,Illinois,IL,Nolan
+2022-02-13,2022-02-19,7,Illinois,IL,Nolan
+2022-02-20,2022-02-26,7,Illinois,IL,Nolan
+2022-02-27,2022-03-05,7,Illinois,IL,Nolan
+2022-03-06,2022-03-12,7,Illinois,IL,Jayden
+2022-03-13,2022-03-19,7,Illinois,IL,Nolan
+2022-03-20,2022-03-26,7,Illinois,IL,Jackson
+2022-03-27,2022-04-02,7,Illinois,IL,Jackson
+2022-04-03,2022-04-09,7,Illinois,IL,Jackson
+2022-04-10,2022-04-16,7,Illinois,IL,Jackson
+2022-04-17,2022-04-23,7,Illinois,IL,Jackson
+2022-04-24,2022-04-30,7,Illinois,IL,Andrew
+2022-05-01,2022-05-07,7,Illinois,IL,Eli
+2022-05-08,2022-05-14,7,Illinois,IL,Nicholas
+2022-05-15,2022-05-21,7,Illinois,IL,Julian
+2022-05-22,2022-05-28,7,Illinois,IL,Adam
+2022-05-29,2022-06-04,7,Illinois,IL,Jackson
+2022-06-05,2022-06-11,7,Illinois,IL,Andrew
+2022-06-12,2022-06-18,7,Illinois,IL,Ryan
+2022-06-19,2022-06-25,7,Illinois,IL,Ryan
+2022-06-26,2022-07-02,7,Illinois,IL,Ryan
+2022-07-03,2022-07-09,7,Illinois,IL,Ryan
+2022-07-10,2022-07-16,7,Illinois,IL,Nolan
+2022-07-17,2022-07-23,7,Illinois,IL,Isaiah
+2022-07-24,2022-07-30,7,Illinois,IL,Andrew
+2022-07-31,2022-08-06,7,Illinois,IL,Eli
+2022-08-07,2022-08-13,7,Illinois,IL,Theodore
+2022-08-14,2022-08-20,7,Illinois,IL,Theodore
+2022-08-21,2022-08-27,7,Illinois,IL,Theodore
+2022-08-28,2022-09-03,7,Illinois,IL,Theodore
+2022-09-04,2022-09-10,7,Illinois,IL,Eli
+2022-09-11,2022-09-17,7,Illinois,IL,Jackson
+2022-09-18,2022-09-24,7,Illinois,IL,Jackson
+2022-09-25,2022-10-01,7,Illinois,IL,Hudson
+2022-10-02,2022-10-08,7,Illinois,IL,Christian
+2022-10-09,2022-10-15,7,Illinois,IL,Andrew
+2022-10-16,2022-10-22,7,Illinois,IL,Nicholas
+2022-10-23,2022-10-29,7,Illinois,IL,Hudson
+2022-10-30,2022-11-05,7,Illinois,IL,Jackson
+2022-11-06,2022-11-12,7,Illinois,IL,Andrew
+2022-11-13,2022-11-19,7,Illinois,IL,Jayden
+2022-11-20,2022-11-26,7,Illinois,IL,William
+2022-11-27,2022-12-03,7,Illinois,IL,William
+2022-01-02,2022-01-08,7,Indiana,IN,Eli
+2022-01-09,2022-01-15,7,Indiana,IN,Eli
+2022-01-16,2022-01-22,7,Indiana,IN,Eli
+2022-01-23,2022-01-29,7,Indiana,IN,Derrick
+2022-01-30,2022-02-05,7,Indiana,IN,William
+2022-02-06,2022-02-12,7,Indiana,IN,Nolan
+2022-02-13,2022-02-19,7,Indiana,IN,Nolan
+2022-02-20,2022-02-26,7,Indiana,IN,Nolan
+2022-02-27,2022-03-05,7,Indiana,IN,Nolan
+2022-03-06,2022-03-12,7,Indiana,IN,Jayden
+2022-03-13,2022-03-19,7,Indiana,IN,Nolan
+2022-03-20,2022-03-26,7,Indiana,IN,Jackson
+2022-03-27,2022-04-02,7,Indiana,IN,Jackson
+2022-04-03,2022-04-09,7,Indiana,IN,Jackson
+2022-04-10,2022-04-16,7,Indiana,IN,Jackson
+2022-04-17,2022-04-23,7,Indiana,IN,Jackson
+2022-04-24,2022-04-30,7,Indiana,IN,Andrew
+2022-05-01,2022-05-07,7,Indiana,IN,Eli
+2022-05-08,2022-05-14,7,Indiana,IN,Nicholas
+2022-05-15,2022-05-21,7,Indiana,IN,Julian
+2022-05-22,2022-05-28,7,Indiana,IN,Adam
+2022-05-29,2022-06-04,7,Indiana,IN,Jackson
+2022-06-05,2022-06-11,7,Indiana,IN,Andrew
+2022-06-12,2022-06-18,7,Indiana,IN,Ryan
+2022-06-19,2022-06-25,7,Indiana,IN,Ryan
+2022-06-26,2022-07-02,7,Indiana,IN,Ryan
+2022-07-03,2022-07-09,7,Indiana,IN,Ryan
+2022-07-10,2022-07-16,7,Indiana,IN,Nolan
+2022-07-17,2022-07-23,7,Indiana,IN,Isaiah
+2022-07-24,2022-07-30,7,Indiana,IN,Andrew
+2022-07-31,2022-08-06,7,Indiana,IN,Eli
+2022-08-07,2022-08-13,7,Indiana,IN,Theodore
+2022-08-14,2022-08-20,7,Indiana,IN,Theodore
+2022-08-21,2022-08-27,7,Indiana,IN,Theodore
+2022-08-28,2022-09-03,7,Indiana,IN,Theodore
+2022-09-04,2022-09-10,7,Indiana,IN,Eli
+2022-09-11,2022-09-17,7,Indiana,IN,Jackson
+2022-09-18,2022-09-24,7,Indiana,IN,Jackson
+2022-09-25,2022-10-01,7,Indiana,IN,Hudson
+2022-10-02,2022-10-08,7,Indiana,IN,Christian
+2022-10-09,2022-10-15,7,Indiana,IN,Andrew
+2022-10-16,2022-10-22,7,Indiana,IN,Nicholas
+2022-10-23,2022-10-29,7,Indiana,IN,Hudson
+2022-10-30,2022-11-05,7,Indiana,IN,Jackson
+2022-11-06,2022-11-12,7,Indiana,IN,Andrew
+2022-11-13,2022-11-19,7,Indiana,IN,Jayden
+2022-11-20,2022-11-26,7,Indiana,IN,William
+2022-11-27,2022-12-03,7,Indiana,IN,William
+2022-01-02,2022-01-08,7,Iowa,IA,Eli
+2022-01-09,2022-01-15,7,Iowa,IA,Eli
+2022-01-16,2022-01-22,7,Iowa,IA,Eli
+2022-01-23,2022-01-29,7,Iowa,IA,Derrick
+2022-01-30,2022-02-05,7,Iowa,IA,William
+2022-02-06,2022-02-12,7,Iowa,IA,Nolan
+2022-02-13,2022-02-19,7,Iowa,IA,Nolan
+2022-02-20,2022-02-26,7,Iowa,IA,Nolan
+2022-02-27,2022-03-05,7,Iowa,IA,Nolan
+2022-03-06,2022-03-12,7,Iowa,IA,Jayden
+2022-03-13,2022-03-19,7,Iowa,IA,Nolan
+2022-03-20,2022-03-26,7,Iowa,IA,Jackson
+2022-03-27,2022-04-02,7,Iowa,IA,Jackson
+2022-04-03,2022-04-09,7,Iowa,IA,Jackson
+2022-04-10,2022-04-16,7,Iowa,IA,Jackson
+2022-04-17,2022-04-23,7,Iowa,IA,Jackson
+2022-04-24,2022-04-30,7,Iowa,IA,Andrew
+2022-05-01,2022-05-07,7,Iowa,IA,Eli
+2022-05-08,2022-05-14,7,Iowa,IA,Nicholas
+2022-05-15,2022-05-21,7,Iowa,IA,Julian
+2022-05-22,2022-05-28,7,Iowa,IA,Adam
+2022-05-29,2022-06-04,7,Iowa,IA,Jackson
+2022-06-05,2022-06-11,7,Iowa,IA,Andrew
+2022-06-12,2022-06-18,7,Iowa,IA,Ryan
+2022-06-19,2022-06-25,7,Iowa,IA,Ryan
+2022-06-26,2022-07-02,7,Iowa,IA,Ryan
+2022-07-03,2022-07-09,7,Iowa,IA,Ryan
+2022-07-10,2022-07-16,7,Iowa,IA,Nolan
+2022-07-17,2022-07-23,7,Iowa,IA,Isaiah
+2022-07-24,2022-07-30,7,Iowa,IA,Andrew
+2022-07-31,2022-08-06,7,Iowa,IA,Eli
+2022-08-07,2022-08-13,7,Iowa,IA,Theodore
+2022-08-14,2022-08-20,7,Iowa,IA,Theodore
+2022-08-21,2022-08-27,7,Iowa,IA,Theodore
+2022-08-28,2022-09-03,7,Iowa,IA,Theodore
+2022-09-04,2022-09-10,7,Iowa,IA,Eli
+2022-09-11,2022-09-17,7,Iowa,IA,Jackson
+2022-09-18,2022-09-24,7,Iowa,IA,Jackson
+2022-09-25,2022-10-01,7,Iowa,IA,Hudson
+2022-10-02,2022-10-08,7,Iowa,IA,Christian
+2022-10-09,2022-10-15,7,Iowa,IA,Andrew
+2022-10-16,2022-10-22,7,Iowa,IA,Nicholas
+2022-10-23,2022-10-29,7,Iowa,IA,Hudson
+2022-10-30,2022-11-05,7,Iowa,IA,Jackson
+2022-11-06,2022-11-12,7,Iowa,IA,Andrew
+2022-11-13,2022-11-19,7,Iowa,IA,Jayden
+2022-11-20,2022-11-26,7,Iowa,IA,William
+2022-11-27,2022-12-03,7,Iowa,IA,William
+2022-01-02,2022-01-08,7,Kansas,KS,Eli
+2022-01-09,2022-01-15,7,Kansas,KS,Eli
+2022-01-16,2022-01-22,7,Kansas,KS,Eli
+2022-01-23,2022-01-29,7,Kansas,KS,Derrick
+2022-01-30,2022-02-05,7,Kansas,KS,William
+2022-02-06,2022-02-12,7,Kansas,KS,Nolan
+2022-02-13,2022-02-19,7,Kansas,KS,Nolan
+2022-02-20,2022-02-26,7,Kansas,KS,Nolan
+2022-02-27,2022-03-05,7,Kansas,KS,Nolan
+2022-03-06,2022-03-12,7,Kansas,KS,Jayden
+2022-03-13,2022-03-19,7,Kansas,KS,Nolan
+2022-03-20,2022-03-26,7,Kansas,KS,Jackson
+2022-03-27,2022-04-02,7,Kansas,KS,Jackson
+2022-04-03,2022-04-09,7,Kansas,KS,Jackson
+2022-04-10,2022-04-16,7,Kansas,KS,Jackson
+2022-04-17,2022-04-23,7,Kansas,KS,Jackson
+2022-04-24,2022-04-30,7,Kansas,KS,Andrew
+2022-05-01,2022-05-07,7,Kansas,KS,Eli
+2022-05-08,2022-05-14,7,Kansas,KS,Nicholas
+2022-05-15,2022-05-21,7,Kansas,KS,Julian
+2022-05-22,2022-05-28,7,Kansas,KS,Adam
+2022-05-29,2022-06-04,7,Kansas,KS,Jackson
+2022-06-05,2022-06-11,7,Kansas,KS,Andrew
+2022-06-12,2022-06-18,7,Kansas,KS,Ryan
+2022-06-19,2022-06-25,7,Kansas,KS,Ryan
+2022-06-26,2022-07-02,7,Kansas,KS,Ryan
+2022-07-03,2022-07-09,7,Kansas,KS,Ryan
+2022-07-10,2022-07-16,7,Kansas,KS,Nolan
+2022-07-17,2022-07-23,7,Kansas,KS,Isaiah
+2022-07-24,2022-07-30,7,Kansas,KS,Andrew
+2022-07-31,2022-08-06,7,Kansas,KS,Eli
+2022-08-07,2022-08-13,7,Kansas,KS,Theodore
+2022-08-14,2022-08-20,7,Kansas,KS,Theodore
+2022-08-21,2022-08-27,7,Kansas,KS,Theodore
+2022-08-28,2022-09-03,7,Kansas,KS,Theodore
+2022-09-04,2022-09-10,7,Kansas,KS,Eli
+2022-09-11,2022-09-17,7,Kansas,KS,Jackson
+2022-09-18,2022-09-24,7,Kansas,KS,Jackson
+2022-09-25,2022-10-01,7,Kansas,KS,Hudson
+2022-10-02,2022-10-08,7,Kansas,KS,Christian
+2022-10-09,2022-10-15,7,Kansas,KS,Andrew
+2022-10-16,2022-10-22,7,Kansas,KS,Nicholas
+2022-10-23,2022-10-29,7,Kansas,KS,Hudson
+2022-10-30,2022-11-05,7,Kansas,KS,Jackson
+2022-11-06,2022-11-12,7,Kansas,KS,Andrew
+2022-11-13,2022-11-19,7,Kansas,KS,Jayden
+2022-11-20,2022-11-26,7,Kansas,KS,William
+2022-11-27,2022-12-03,7,Kansas,KS,William
+2022-01-02,2022-01-08,7,Kentucky,KY,Eli
+2022-01-09,2022-01-15,7,Kentucky,KY,Eli
+2022-01-16,2022-01-22,7,Kentucky,KY,Eli
+2022-01-23,2022-01-29,7,Kentucky,KY,Derrick
+2022-01-30,2022-02-05,7,Kentucky,KY,William
+2022-02-06,2022-02-12,7,Kentucky,KY,Nolan
+2022-02-13,2022-02-19,7,Kentucky,KY,Nolan
+2022-02-20,2022-02-26,7,Kentucky,KY,Nolan
+2022-02-27,2022-03-05,7,Kentucky,KY,Nolan
+2022-03-06,2022-03-12,7,Kentucky,KY,Jayden
+2022-03-13,2022-03-19,7,Kentucky,KY,Nolan
+2022-03-20,2022-03-26,7,Kentucky,KY,Jackson
+2022-03-27,2022-04-02,7,Kentucky,KY,Jackson
+2022-04-03,2022-04-09,7,Kentucky,KY,Jackson
+2022-04-10,2022-04-16,7,Kentucky,KY,Jackson
+2022-04-17,2022-04-23,7,Kentucky,KY,Jackson
+2022-04-24,2022-04-30,7,Kentucky,KY,Andrew
+2022-05-01,2022-05-07,7,Kentucky,KY,Eli
+2022-05-08,2022-05-14,7,Kentucky,KY,Nicholas
+2022-05-15,2022-05-21,7,Kentucky,KY,Julian
+2022-05-22,2022-05-28,7,Kentucky,KY,Adam
+2022-05-29,2022-06-04,7,Kentucky,KY,Jackson
+2022-06-05,2022-06-11,7,Kentucky,KY,Andrew
+2022-06-12,2022-06-18,7,Kentucky,KY,Ryan
+2022-06-19,2022-06-25,7,Kentucky,KY,Ryan
+2022-06-26,2022-07-02,7,Kentucky,KY,Ryan
+2022-07-03,2022-07-09,7,Kentucky,KY,Ryan
+2022-07-10,2022-07-16,7,Kentucky,KY,Nolan
+2022-07-17,2022-07-23,7,Kentucky,KY,Isaiah
+2022-07-24,2022-07-30,7,Kentucky,KY,Andrew
+2022-07-31,2022-08-06,7,Kentucky,KY,Eli
+2022-08-07,2022-08-13,7,Kentucky,KY,Theodore
+2022-08-14,2022-08-20,7,Kentucky,KY,Theodore
+2022-08-21,2022-08-27,7,Kentucky,KY,Theodore
+2022-08-28,2022-09-03,7,Kentucky,KY,Theodore
+2022-09-04,2022-09-10,7,Kentucky,KY,Eli
+2022-09-11,2022-09-17,7,Kentucky,KY,Jackson
+2022-09-18,2022-09-24,7,Kentucky,KY,Jackson
+2022-09-25,2022-10-01,7,Kentucky,KY,Hudson
+2022-10-02,2022-10-08,7,Kentucky,KY,Christian
+2022-10-09,2022-10-15,7,Kentucky,KY,Andrew
+2022-10-16,2022-10-22,7,Kentucky,KY,Nicholas
+2022-10-23,2022-10-29,7,Kentucky,KY,Hudson
+2022-10-30,2022-11-05,7,Kentucky,KY,Jackson
+2022-11-06,2022-11-12,7,Kentucky,KY,Andrew
+2022-11-13,2022-11-19,7,Kentucky,KY,Jayden
+2022-11-20,2022-11-26,7,Kentucky,KY,William
+2022-11-27,2022-12-03,7,Kentucky,KY,William
+2022-01-02,2022-01-08,7,Louisiana,LA,Eli
+2022-01-09,2022-01-15,7,Louisiana,LA,Eli
+2022-01-16,2022-01-22,7,Louisiana,LA,Eli
+2022-01-23,2022-01-29,7,Louisiana,LA,Derrick
+2022-01-30,2022-02-05,7,Louisiana,LA,William
+2022-02-06,2022-02-12,7,Louisiana,LA,Nolan
+2022-02-13,2022-02-19,7,Louisiana,LA,Nolan
+2022-02-20,2022-02-26,7,Louisiana,LA,Nolan
+2022-02-27,2022-03-05,7,Louisiana,LA,Nolan
+2022-03-06,2022-03-12,7,Louisiana,LA,Jayden
+2022-03-13,2022-03-19,7,Louisiana,LA,Nolan
+2022-03-20,2022-03-26,7,Louisiana,LA,Jackson
+2022-03-27,2022-04-02,7,Louisiana,LA,Jackson
+2022-04-03,2022-04-09,7,Louisiana,LA,Jackson
+2022-04-10,2022-04-16,7,Louisiana,LA,Jackson
+2022-04-17,2022-04-23,7,Louisiana,LA,Jackson
+2022-04-24,2022-04-30,7,Louisiana,LA,Andrew
+2022-05-01,2022-05-07,7,Louisiana,LA,Eli
+2022-05-08,2022-05-14,7,Louisiana,LA,Nicholas
+2022-05-15,2022-05-21,7,Louisiana,LA,Julian
+2022-05-22,2022-05-28,7,Louisiana,LA,Adam
+2022-05-29,2022-06-04,7,Louisiana,LA,Jackson
+2022-06-05,2022-06-11,7,Louisiana,LA,Andrew
+2022-06-12,2022-06-18,7,Louisiana,LA,Ryan
+2022-06-19,2022-06-25,7,Louisiana,LA,Ryan
+2022-06-26,2022-07-02,7,Louisiana,LA,Ryan
+2022-07-03,2022-07-09,7,Louisiana,LA,Ryan
+2022-07-10,2022-07-16,7,Louisiana,LA,Nolan
+2022-07-17,2022-07-23,7,Louisiana,LA,Isaiah
+2022-07-24,2022-07-30,7,Louisiana,LA,Andrew
+2022-07-31,2022-08-06,7,Louisiana,LA,Eli
+2022-08-07,2022-08-13,7,Louisiana,LA,Theodore
+2022-08-14,2022-08-20,7,Louisiana,LA,Theodore
+2022-08-21,2022-08-27,7,Louisiana,LA,Theodore
+2022-08-28,2022-09-03,7,Louisiana,LA,Theodore
+2022-09-04,2022-09-10,7,Louisiana,LA,Eli
+2022-09-11,2022-09-17,7,Louisiana,LA,Jackson
+2022-09-18,2022-09-24,7,Louisiana,LA,Jackson
+2022-09-25,2022-10-01,7,Louisiana,LA,Hudson
+2022-10-02,2022-10-08,7,Louisiana,LA,Christian
+2022-10-09,2022-10-15,7,Louisiana,LA,Andrew
+2022-10-16,2022-10-22,7,Louisiana,LA,Nicholas
+2022-10-23,2022-10-29,7,Louisiana,LA,Hudson
+2022-10-30,2022-11-05,7,Louisiana,LA,Jackson
+2022-11-06,2022-11-12,7,Louisiana,LA,Andrew
+2022-11-13,2022-11-19,7,Louisiana,LA,Jayden
+2022-11-20,2022-11-26,7,Louisiana,LA,William
+2022-11-27,2022-12-03,7,Louisiana,LA,William
+2022-01-02,2022-01-08,7,Maine,ME,Eli
+2022-01-09,2022-01-15,7,Maine,ME,Eli
+2022-01-16,2022-01-22,7,Maine,ME,Eli
+2022-01-23,2022-01-29,7,Maine,ME,Derrick
+2022-01-30,2022-02-05,7,Maine,ME,William
+2022-02-06,2022-02-12,7,Maine,ME,Nolan
+2022-02-13,2022-02-19,7,Maine,ME,Nolan
+2022-02-20,2022-02-26,7,Maine,ME,Nolan
+2022-02-27,2022-03-05,7,Maine,ME,Nolan
+2022-03-06,2022-03-12,7,Maine,ME,Jayden
+2022-03-13,2022-03-19,7,Maine,ME,Nolan
+2022-03-20,2022-03-26,7,Maine,ME,Jackson
+2022-03-27,2022-04-02,7,Maine,ME,Jackson
+2022-04-03,2022-04-09,7,Maine,ME,Jackson
+2022-04-10,2022-04-16,7,Maine,ME,Jackson
+2022-04-17,2022-04-23,7,Maine,ME,Jackson
+2022-04-24,2022-04-30,7,Maine,ME,Andrew
+2022-05-01,2022-05-07,7,Maine,ME,Eli
+2022-05-08,2022-05-14,7,Maine,ME,Nicholas
+2022-05-15,2022-05-21,7,Maine,ME,Julian
+2022-05-22,2022-05-28,7,Maine,ME,Adam
+2022-05-29,2022-06-04,7,Maine,ME,Jackson
+2022-06-05,2022-06-11,7,Maine,ME,Andrew
+2022-06-12,2022-06-18,7,Maine,ME,Ryan
+2022-06-19,2022-06-25,7,Maine,ME,Ryan
+2022-06-26,2022-07-02,7,Maine,ME,Ryan
+2022-07-03,2022-07-09,7,Maine,ME,Ryan
+2022-07-10,2022-07-16,7,Maine,ME,Nolan
+2022-07-17,2022-07-23,7,Maine,ME,Isaiah
+2022-07-24,2022-07-30,7,Maine,ME,Andrew
+2022-07-31,2022-08-06,7,Maine,ME,Eli
+2022-08-07,2022-08-13,7,Maine,ME,Theodore
+2022-08-14,2022-08-20,7,Maine,ME,Theodore
+2022-08-21,2022-08-27,7,Maine,ME,Theodore
+2022-08-28,2022-09-03,7,Maine,ME,Theodore
+2022-09-04,2022-09-10,7,Maine,ME,Eli
+2022-09-11,2022-09-17,7,Maine,ME,Jackson
+2022-09-18,2022-09-24,7,Maine,ME,Jackson
+2022-09-25,2022-10-01,7,Maine,ME,Hudson
+2022-10-02,2022-10-08,7,Maine,ME,Christian
+2022-10-09,2022-10-15,7,Maine,ME,Andrew
+2022-10-16,2022-10-22,7,Maine,ME,Nicholas
+2022-10-23,2022-10-29,7,Maine,ME,Hudson
+2022-10-30,2022-11-05,7,Maine,ME,Jackson
+2022-11-06,2022-11-12,7,Maine,ME,Andrew
+2022-11-13,2022-11-19,7,Maine,ME,Jayden
+2022-11-20,2022-11-26,7,Maine,ME,William
+2022-11-27,2022-12-03,7,Maine,ME,William
+2022-01-02,2022-01-08,7,Maryland,MD,Eli
+2022-01-09,2022-01-15,7,Maryland,MD,Eli
+2022-01-16,2022-01-22,7,Maryland,MD,Eli
+2022-01-23,2022-01-29,7,Maryland,MD,Derrick
+2022-01-30,2022-02-05,7,Maryland,MD,William
+2022-02-06,2022-02-12,7,Maryland,MD,Nolan
+2022-02-13,2022-02-19,7,Maryland,MD,Nolan
+2022-02-20,2022-02-26,7,Maryland,MD,Nolan
+2022-02-27,2022-03-05,7,Maryland,MD,Nolan
+2022-03-06,2022-03-12,7,Maryland,MD,Jayden
+2022-03-13,2022-03-19,7,Maryland,MD,Nolan
+2022-03-20,2022-03-26,7,Maryland,MD,Jackson
+2022-03-27,2022-04-02,7,Maryland,MD,Jackson
+2022-04-03,2022-04-09,7,Maryland,MD,Jackson
+2022-04-10,2022-04-16,7,Maryland,MD,Jackson
+2022-04-17,2022-04-23,7,Maryland,MD,Jackson
+2022-04-24,2022-04-30,7,Maryland,MD,Andrew
+2022-05-01,2022-05-07,7,Maryland,MD,Eli
+2022-05-08,2022-05-14,7,Maryland,MD,Nicholas
+2022-05-15,2022-05-21,7,Maryland,MD,Julian
+2022-05-22,2022-05-28,7,Maryland,MD,Adam
+2022-05-29,2022-06-04,7,Maryland,MD,Jackson
+2022-06-05,2022-06-11,7,Maryland,MD,Andrew
+2022-06-12,2022-06-18,7,Maryland,MD,Ryan
+2022-06-19,2022-06-25,7,Maryland,MD,Ryan
+2022-06-26,2022-07-02,7,Maryland,MD,Ryan
+2022-07-03,2022-07-09,7,Maryland,MD,Ryan
+2022-07-10,2022-07-16,7,Maryland,MD,Nolan
+2022-07-17,2022-07-23,7,Maryland,MD,Isaiah
+2022-07-24,2022-07-30,7,Maryland,MD,Andrew
+2022-07-31,2022-08-06,7,Maryland,MD,Eli
+2022-08-07,2022-08-13,7,Maryland,MD,Theodore
+2022-08-14,2022-08-20,7,Maryland,MD,Theodore
+2022-08-21,2022-08-27,7,Maryland,MD,Theodore
+2022-08-28,2022-09-03,7,Maryland,MD,Theodore
+2022-09-04,2022-09-10,7,Maryland,MD,Eli
+2022-09-11,2022-09-17,7,Maryland,MD,Jackson
+2022-09-18,2022-09-24,7,Maryland,MD,Jackson
+2022-09-25,2022-10-01,7,Maryland,MD,Hudson
+2022-10-02,2022-10-08,7,Maryland,MD,Christian
+2022-10-09,2022-10-15,7,Maryland,MD,Andrew
+2022-10-16,2022-10-22,7,Maryland,MD,Nicholas
+2022-10-23,2022-10-29,7,Maryland,MD,Hudson
+2022-10-30,2022-11-05,7,Maryland,MD,Jackson
+2022-11-06,2022-11-12,7,Maryland,MD,Andrew
+2022-11-13,2022-11-19,7,Maryland,MD,Jayden
+2022-11-20,2022-11-26,7,Maryland,MD,William
+2022-11-27,2022-12-03,7,Maryland,MD,William
+2022-01-02,2022-01-08,7,Massachusetts,MA,Eli
+2022-01-09,2022-01-15,7,Massachusetts,MA,Eli
+2022-01-16,2022-01-22,7,Massachusetts,MA,Eli
+2022-01-23,2022-01-29,7,Massachusetts,MA,Derrick
+2022-01-30,2022-02-05,7,Massachusetts,MA,William
+2022-02-06,2022-02-12,7,Massachusetts,MA,Nolan
+2022-02-13,2022-02-19,7,Massachusetts,MA,Nolan
+2022-02-20,2022-02-26,7,Massachusetts,MA,Nolan
+2022-02-27,2022-03-05,7,Massachusetts,MA,Nolan
+2022-03-06,2022-03-12,7,Massachusetts,MA,Jayden
+2022-03-13,2022-03-19,7,Massachusetts,MA,Nolan
+2022-03-20,2022-03-26,7,Massachusetts,MA,Jackson
+2022-03-27,2022-04-02,7,Massachusetts,MA,Jackson
+2022-04-03,2022-04-09,7,Massachusetts,MA,Jackson
+2022-04-10,2022-04-16,7,Massachusetts,MA,Jackson
+2022-04-17,2022-04-23,7,Massachusetts,MA,Jackson
+2022-04-24,2022-04-30,7,Massachusetts,MA,Andrew
+2022-05-01,2022-05-07,7,Massachusetts,MA,Eli
+2022-05-08,2022-05-14,7,Massachusetts,MA,Nicholas
+2022-05-15,2022-05-21,7,Massachusetts,MA,Julian
+2022-05-22,2022-05-28,7,Massachusetts,MA,Adam
+2022-05-29,2022-06-04,7,Massachusetts,MA,Jackson
+2022-06-05,2022-06-11,7,Massachusetts,MA,Andrew
+2022-06-12,2022-06-18,7,Massachusetts,MA,Ryan
+2022-06-19,2022-06-25,7,Massachusetts,MA,Ryan
+2022-06-26,2022-07-02,7,Massachusetts,MA,Ryan
+2022-07-03,2022-07-09,7,Massachusetts,MA,Ryan
+2022-07-10,2022-07-16,7,Massachusetts,MA,Nolan
+2022-07-17,2022-07-23,7,Massachusetts,MA,Isaiah
+2022-07-24,2022-07-30,7,Massachusetts,MA,Andrew
+2022-07-31,2022-08-06,7,Massachusetts,MA,Eli
+2022-08-07,2022-08-13,7,Massachusetts,MA,Theodore
+2022-08-14,2022-08-20,7,Massachusetts,MA,Theodore
+2022-08-21,2022-08-27,7,Massachusetts,MA,Theodore
+2022-08-28,2022-09-03,7,Massachusetts,MA,Theodore
+2022-09-04,2022-09-10,7,Massachusetts,MA,Eli
+2022-09-11,2022-09-17,7,Massachusetts,MA,Jackson
+2022-09-18,2022-09-24,7,Massachusetts,MA,Jackson
+2022-09-25,2022-10-01,7,Massachusetts,MA,Hudson
+2022-10-02,2022-10-08,7,Massachusetts,MA,Christian
+2022-10-09,2022-10-15,7,Massachusetts,MA,Andrew
+2022-10-16,2022-10-22,7,Massachusetts,MA,Nicholas
+2022-10-23,2022-10-29,7,Massachusetts,MA,Hudson
+2022-10-30,2022-11-05,7,Massachusetts,MA,Jackson
+2022-11-06,2022-11-12,7,Massachusetts,MA,Andrew
+2022-11-13,2022-11-19,7,Massachusetts,MA,Jayden
+2022-11-20,2022-11-26,7,Massachusetts,MA,William
+2022-11-27,2022-12-03,7,Massachusetts,MA,William
+2022-01-02,2022-01-08,7,Michigan,MI,Eli
+2022-01-09,2022-01-15,7,Michigan,MI,Eli
+2022-01-16,2022-01-22,7,Michigan,MI,Eli
+2022-01-23,2022-01-29,7,Michigan,MI,Derrick
+2022-01-30,2022-02-05,7,Michigan,MI,William
+2022-02-06,2022-02-12,7,Michigan,MI,Nolan
+2022-02-13,2022-02-19,7,Michigan,MI,Nolan
+2022-02-20,2022-02-26,7,Michigan,MI,Nolan
+2022-02-27,2022-03-05,7,Michigan,MI,Nolan
+2022-03-06,2022-03-12,7,Michigan,MI,Jayden
+2022-03-13,2022-03-19,7,Michigan,MI,Nolan
+2022-03-20,2022-03-26,7,Michigan,MI,Jackson
+2022-03-27,2022-04-02,7,Michigan,MI,Jackson
+2022-04-03,2022-04-09,7,Michigan,MI,Jackson
+2022-04-10,2022-04-16,7,Michigan,MI,Jackson
+2022-04-17,2022-04-23,7,Michigan,MI,Jackson
+2022-04-24,2022-04-30,7,Michigan,MI,Andrew
+2022-05-01,2022-05-07,7,Michigan,MI,Eli
+2022-05-08,2022-05-14,7,Michigan,MI,Nicholas
+2022-05-15,2022-05-21,7,Michigan,MI,Julian
+2022-05-22,2022-05-28,7,Michigan,MI,Adam
+2022-05-29,2022-06-04,7,Michigan,MI,Jackson
+2022-06-05,2022-06-11,7,Michigan,MI,Andrew
+2022-06-12,2022-06-18,7,Michigan,MI,Ryan
+2022-06-19,2022-06-25,7,Michigan,MI,Ryan
+2022-06-26,2022-07-02,7,Michigan,MI,Ryan
+2022-07-03,2022-07-09,7,Michigan,MI,Ryan
+2022-07-10,2022-07-16,7,Michigan,MI,Nolan
+2022-07-17,2022-07-23,7,Michigan,MI,Isaiah
+2022-07-24,2022-07-30,7,Michigan,MI,Andrew
+2022-07-31,2022-08-06,7,Michigan,MI,Eli
+2022-08-07,2022-08-13,7,Michigan,MI,Theodore
+2022-08-14,2022-08-20,7,Michigan,MI,Theodore
+2022-08-21,2022-08-27,7,Michigan,MI,Theodore
+2022-08-28,2022-09-03,7,Michigan,MI,Theodore
+2022-09-04,2022-09-10,7,Michigan,MI,Eli
+2022-09-11,2022-09-17,7,Michigan,MI,Jackson
+2022-09-18,2022-09-24,7,Michigan,MI,Jackson
+2022-09-25,2022-10-01,7,Michigan,MI,Hudson
+2022-10-02,2022-10-08,7,Michigan,MI,Christian
+2022-10-09,2022-10-15,7,Michigan,MI,Andrew
+2022-10-16,2022-10-22,7,Michigan,MI,Nicholas
+2022-10-23,2022-10-29,7,Michigan,MI,Hudson
+2022-10-30,2022-11-05,7,Michigan,MI,Jackson
+2022-11-06,2022-11-12,7,Michigan,MI,Andrew
+2022-11-13,2022-11-19,7,Michigan,MI,Jayden
+2022-11-20,2022-11-26,7,Michigan,MI,William
+2022-11-27,2022-12-03,7,Michigan,MI,William
+2022-01-02,2022-01-08,7,Minnesota,MN,Eli
+2022-01-09,2022-01-15,7,Minnesota,MN,Eli
+2022-01-16,2022-01-22,7,Minnesota,MN,Eli
+2022-01-23,2022-01-29,7,Minnesota,MN,Derrick
+2022-01-30,2022-02-05,7,Minnesota,MN,William
+2022-02-06,2022-02-12,7,Minnesota,MN,Nolan
+2022-02-13,2022-02-19,7,Minnesota,MN,Nolan
+2022-02-20,2022-02-26,7,Minnesota,MN,Nolan
+2022-02-27,2022-03-05,7,Minnesota,MN,Nolan
+2022-03-06,2022-03-12,7,Minnesota,MN,Nolan
+2022-03-13,2022-03-19,7,Minnesota,MN,Nolan
+2022-03-20,2022-03-26,7,Minnesota,MN,Nolan
+2022-03-27,2022-04-02,7,Minnesota,MN,Jackson
+2022-04-03,2022-04-09,7,Minnesota,MN,Jackson
+2022-04-10,2022-04-16,7,Minnesota,MN,Jackson
+2022-04-17,2022-04-23,7,Minnesota,MN,Jackson
+2022-04-24,2022-04-30,7,Minnesota,MN,Jackson
+2022-05-01,2022-05-07,7,Minnesota,MN,Jackson
+2022-05-08,2022-05-14,7,Minnesota,MN,Jackson
+2022-05-15,2022-05-21,7,Minnesota,MN,Jackson
+2022-05-22,2022-05-28,7,Minnesota,MN,Adam
+2022-05-29,2022-06-04,7,Minnesota,MN,Jackson
+2022-06-05,2022-06-11,7,Minnesota,MN,Andrew
+2022-06-12,2022-06-18,7,Minnesota,MN,Ryan
+2022-06-19,2022-06-25,7,Minnesota,MN,Ryan
+2022-06-26,2022-07-02,7,Minnesota,MN,Ryan
+2022-07-03,2022-07-09,7,Minnesota,MN,Ryan
+2022-07-10,2022-07-16,7,Minnesota,MN,Ryan
+2022-07-17,2022-07-23,7,Minnesota,MN,Ryan
+2022-07-24,2022-07-30,7,Minnesota,MN,Ryan
+2022-07-31,2022-08-06,7,Minnesota,MN,Ryan
+2022-08-07,2022-08-13,7,Minnesota,MN,Theodore
+2022-08-14,2022-08-20,7,Minnesota,MN,Theodore
+2022-08-21,2022-08-27,7,Minnesota,MN,Theodore
+2022-08-28,2022-09-03,7,Minnesota,MN,Theodore
+2022-09-04,2022-09-10,7,Minnesota,MN,Eli
+2022-09-11,2022-09-17,7,Minnesota,MN,Jackson
+2022-09-18,2022-09-24,7,Minnesota,MN,Jackson
+2022-09-25,2022-10-01,7,Minnesota,MN,Jackson
+2022-10-02,2022-10-08,7,Minnesota,MN,Jackson
+2022-10-09,2022-10-15,7,Minnesota,MN,Jackson
+2022-10-16,2022-10-22,7,Minnesota,MN,Jackson
+2022-10-23,2022-10-29,7,Minnesota,MN,Jackson
+2022-10-30,2022-11-05,7,Minnesota,MN,Jackson
+2022-11-06,2022-11-12,7,Minnesota,MN,Andrew
+2022-11-13,2022-11-19,7,Minnesota,MN,Jayden
+2022-11-20,2022-11-26,7,Minnesota,MN,William
+2022-11-27,2022-12-03,7,Minnesota,MN,William
+2022-01-02,2022-01-08,7,Mississippi,MS,Eli
+2022-01-09,2022-01-15,7,Mississippi,MS,Eli
+2022-01-16,2022-01-22,7,Mississippi,MS,Eli
+2022-01-23,2022-01-29,7,Mississippi,MS,Derrick
+2022-01-30,2022-02-05,7,Mississippi,MS,William
+2022-02-06,2022-02-12,7,Mississippi,MS,Nolan
+2022-02-13,2022-02-19,7,Mississippi,MS,Nolan
+2022-02-20,2022-02-26,7,Mississippi,MS,Nolan
+2022-02-27,2022-03-05,7,Mississippi,MS,Nolan
+2022-03-06,2022-03-12,7,Mississippi,MS,Nolan
+2022-03-13,2022-03-19,7,Mississippi,MS,Nolan
+2022-03-20,2022-03-26,7,Mississippi,MS,Nolan
+2022-03-27,2022-04-02,7,Mississippi,MS,Jackson
+2022-04-03,2022-04-09,7,Mississippi,MS,Jackson
+2022-04-10,2022-04-16,7,Mississippi,MS,Jackson
+2022-04-17,2022-04-23,7,Mississippi,MS,Jackson
+2022-04-24,2022-04-30,7,Mississippi,MS,Jackson
+2022-05-01,2022-05-07,7,Mississippi,MS,Jackson
+2022-05-08,2022-05-14,7,Mississippi,MS,Jackson
+2022-05-15,2022-05-21,7,Mississippi,MS,Jackson
+2022-05-22,2022-05-28,7,Mississippi,MS,Adam
+2022-05-29,2022-06-04,7,Mississippi,MS,Jackson
+2022-06-05,2022-06-11,7,Mississippi,MS,Andrew
+2022-06-12,2022-06-18,7,Mississippi,MS,Ryan
+2022-06-19,2022-06-25,7,Mississippi,MS,Ryan
+2022-06-26,2022-07-02,7,Mississippi,MS,Ryan
+2022-07-03,2022-07-09,7,Mississippi,MS,Ryan
+2022-07-10,2022-07-16,7,Mississippi,MS,Ryan
+2022-07-17,2022-07-23,7,Mississippi,MS,Ryan
+2022-07-24,2022-07-30,7,Mississippi,MS,Ryan
+2022-07-31,2022-08-06,7,Mississippi,MS,Ryan
+2022-08-07,2022-08-13,7,Mississippi,MS,Theodore
+2022-08-14,2022-08-20,7,Mississippi,MS,Theodore
+2022-08-21,2022-08-27,7,Mississippi,MS,Theodore
+2022-08-28,2022-09-03,7,Mississippi,MS,Theodore
+2022-09-04,2022-09-10,7,Mississippi,MS,Eli
+2022-09-11,2022-09-17,7,Mississippi,MS,Jackson
+2022-09-18,2022-09-24,7,Mississippi,MS,Jackson
+2022-09-25,2022-10-01,7,Mississippi,MS,Jackson
+2022-10-02,2022-10-08,7,Mississippi,MS,Jackson
+2022-10-09,2022-10-15,7,Mississippi,MS,Jackson
+2022-10-16,2022-10-22,7,Mississippi,MS,Jackson
+2022-10-23,2022-10-29,7,Mississippi,MS,Jackson
+2022-10-30,2022-11-05,7,Mississippi,MS,Jackson
+2022-11-06,2022-11-12,7,Mississippi,MS,Andrew
+2022-11-13,2022-11-19,7,Mississippi,MS,Jayden
+2022-11-20,2022-11-26,7,Mississippi,MS,William
+2022-11-27,2022-12-03,7,Mississippi,MS,William
+2022-01-02,2022-01-08,7,Missouri,MO,Eli
+2022-01-09,2022-01-15,7,Missouri,MO,Eli
+2022-01-16,2022-01-22,7,Missouri,MO,Eli
+2022-01-23,2022-01-29,7,Missouri,MO,Derrick
+2022-01-30,2022-02-05,7,Missouri,MO,William
+2022-02-06,2022-02-12,7,Missouri,MO,Nolan
+2022-02-13,2022-02-19,7,Missouri,MO,Nolan
+2022-02-20,2022-02-26,7,Missouri,MO,Nolan
+2022-02-27,2022-03-05,7,Missouri,MO,Nolan
+2022-03-06,2022-03-12,7,Missouri,MO,Nolan
+2022-03-13,2022-03-19,7,Missouri,MO,Nolan
+2022-03-20,2022-03-26,7,Missouri,MO,Nolan
+2022-03-27,2022-04-02,7,Missouri,MO,Jackson
+2022-04-03,2022-04-09,7,Missouri,MO,Jackson
+2022-04-10,2022-04-16,7,Missouri,MO,Jackson
+2022-04-17,2022-04-23,7,Missouri,MO,Jackson
+2022-04-24,2022-04-30,7,Missouri,MO,Jackson
+2022-05-01,2022-05-07,7,Missouri,MO,Jackson
+2022-05-08,2022-05-14,7,Missouri,MO,Jackson
+2022-05-15,2022-05-21,7,Missouri,MO,Jackson
+2022-05-22,2022-05-28,7,Missouri,MO,Adam
+2022-05-29,2022-06-04,7,Missouri,MO,Jackson
+2022-06-05,2022-06-11,7,Missouri,MO,Andrew
+2022-06-12,2022-06-18,7,Missouri,MO,Ryan
+2022-06-19,2022-06-25,7,Missouri,MO,Ryan
+2022-06-26,2022-07-02,7,Missouri,MO,Ryan
+2022-07-03,2022-07-09,7,Missouri,MO,Ryan
+2022-07-10,2022-07-16,7,Missouri,MO,Ryan
+2022-07-17,2022-07-23,7,Missouri,MO,Ryan
+2022-07-24,2022-07-30,7,Missouri,MO,Ryan
+2022-07-31,2022-08-06,7,Missouri,MO,Ryan
+2022-08-07,2022-08-13,7,Missouri,MO,Theodore
+2022-08-14,2022-08-20,7,Missouri,MO,Theodore
+2022-08-21,2022-08-27,7,Missouri,MO,Theodore
+2022-08-28,2022-09-03,7,Missouri,MO,Theodore
+2022-09-04,2022-09-10,7,Missouri,MO,Eli
+2022-09-11,2022-09-17,7,Missouri,MO,Jackson
+2022-09-18,2022-09-24,7,Missouri,MO,Jackson
+2022-09-25,2022-10-01,7,Missouri,MO,Jackson
+2022-10-02,2022-10-08,7,Missouri,MO,Jackson
+2022-10-09,2022-10-15,7,Missouri,MO,Jackson
+2022-10-16,2022-10-22,7,Missouri,MO,Jackson
+2022-10-23,2022-10-29,7,Missouri,MO,Jackson
+2022-10-30,2022-11-05,7,Missouri,MO,Jackson
+2022-11-06,2022-11-12,7,Missouri,MO,Andrew
+2022-11-13,2022-11-19,7,Missouri,MO,Jayden
+2022-11-20,2022-11-26,7,Missouri,MO,William
+2022-11-27,2022-12-03,7,Missouri,MO,William
+2022-01-02,2022-01-08,7,Montana,MT,Eli
+2022-01-09,2022-01-15,7,Montana,MT,Eli
+2022-01-16,2022-01-22,7,Montana,MT,Eli
+2022-01-23,2022-01-29,7,Montana,MT,Derrick
+2022-01-30,2022-02-05,7,Montana,MT,William
+2022-02-06,2022-02-12,7,Montana,MT,Nolan
+2022-02-13,2022-02-19,7,Montana,MT,Nolan
+2022-02-20,2022-02-26,7,Montana,MT,Nolan
+2022-02-27,2022-03-05,7,Montana,MT,Nolan
+2022-03-06,2022-03-12,7,Montana,MT,Nolan
+2022-03-13,2022-03-19,7,Montana,MT,Nolan
+2022-03-20,2022-03-26,7,Montana,MT,Nolan
+2022-03-27,2022-04-02,7,Montana,MT,Jackson
+2022-04-03,2022-04-09,7,Montana,MT,Jackson
+2022-04-10,2022-04-16,7,Montana,MT,Jackson
+2022-04-17,2022-04-23,7,Montana,MT,Jackson
+2022-04-24,2022-04-30,7,Montana,MT,Jackson
+2022-05-01,2022-05-07,7,Montana,MT,Jackson
+2022-05-08,2022-05-14,7,Montana,MT,Jackson
+2022-05-15,2022-05-21,7,Montana,MT,Jackson
+2022-05-22,2022-05-28,7,Montana,MT,Adam
+2022-05-29,2022-06-04,7,Montana,MT,Jackson
+2022-06-05,2022-06-11,7,Montana,MT,Andrew
+2022-06-12,2022-06-18,7,Montana,MT,Ryan
+2022-06-19,2022-06-25,7,Montana,MT,Ryan
+2022-06-26,2022-07-02,7,Montana,MT,Ryan
+2022-07-03,2022-07-09,7,Montana,MT,Ryan
+2022-07-10,2022-07-16,7,Montana,MT,Ryan
+2022-07-17,2022-07-23,7,Montana,MT,Ryan
+2022-07-24,2022-07-30,7,Montana,MT,Ryan
+2022-07-31,2022-08-06,7,Montana,MT,Ryan
+2022-08-07,2022-08-13,7,Montana,MT,Theodore
+2022-08-14,2022-08-20,7,Montana,MT,Theodore
+2022-08-21,2022-08-27,7,Montana,MT,Theodore
+2022-08-28,2022-09-03,7,Montana,MT,Theodore
+2022-09-04,2022-09-10,7,Montana,MT,Eli
+2022-09-11,2022-09-17,7,Montana,MT,Jackson
+2022-09-18,2022-09-24,7,Montana,MT,Jackson
+2022-09-25,2022-10-01,7,Montana,MT,Jackson
+2022-10-02,2022-10-08,7,Montana,MT,Jackson
+2022-10-09,2022-10-15,7,Montana,MT,Jackson
+2022-10-16,2022-10-22,7,Montana,MT,Jackson
+2022-10-23,2022-10-29,7,Montana,MT,Jackson
+2022-10-30,2022-11-05,7,Montana,MT,Jackson
+2022-11-06,2022-11-12,7,Montana,MT,Andrew
+2022-11-13,2022-11-19,7,Montana,MT,Jayden
+2022-11-20,2022-11-26,7,Montana,MT,William
+2022-11-27,2022-12-03,7,Montana,MT,William
+2022-01-02,2022-01-08,7,Nebraska,NE,Eli
+2022-01-09,2022-01-15,7,Nebraska,NE,Eli
+2022-01-16,2022-01-22,7,Nebraska,NE,Eli
+2022-01-23,2022-01-29,7,Nebraska,NE,Derrick
+2022-01-30,2022-02-05,7,Nebraska,NE,William
+2022-02-06,2022-02-12,7,Nebraska,NE,Nolan
+2022-02-13,2022-02-19,7,Nebraska,NE,Nolan
+2022-02-20,2022-02-26,7,Nebraska,NE,Nolan
+2022-02-27,2022-03-05,7,Nebraska,NE,Nolan
+2022-03-06,2022-03-12,7,Nebraska,NE,Nolan
+2022-03-13,2022-03-19,7,Nebraska,NE,Nolan
+2022-03-20,2022-03-26,7,Nebraska,NE,Nolan
+2022-03-27,2022-04-02,7,Nebraska,NE,Jackson
+2022-04-03,2022-04-09,7,Nebraska,NE,Jackson
+2022-04-10,2022-04-16,7,Nebraska,NE,Jackson
+2022-04-17,2022-04-23,7,Nebraska,NE,Jackson
+2022-04-24,2022-04-30,7,Nebraska,NE,Jackson
+2022-05-01,2022-05-07,7,Nebraska,NE,Jackson
+2022-05-08,2022-05-14,7,Nebraska,NE,Jackson
+2022-05-15,2022-05-21,7,Nebraska,NE,Jackson
+2022-05-22,2022-05-28,7,Nebraska,NE,Adam
+2022-05-29,2022-06-04,7,Nebraska,NE,Jackson
+2022-06-05,2022-06-11,7,Nebraska,NE,Andrew
+2022-06-12,2022-06-18,7,Nebraska,NE,Ryan
+2022-06-19,2022-06-25,7,Nebraska,NE,Ryan
+2022-06-26,2022-07-02,7,Nebraska,NE,Ryan
+2022-07-03,2022-07-09,7,Nebraska,NE,Ryan
+2022-07-10,2022-07-16,7,Nebraska,NE,Ryan
+2022-07-17,2022-07-23,7,Nebraska,NE,Ryan
+2022-07-24,2022-07-30,7,Nebraska,NE,Ryan
+2022-07-31,2022-08-06,7,Nebraska,NE,Ryan
+2022-08-07,2022-08-13,7,Nebraska,NE,Theodore
+2022-08-14,2022-08-20,7,Nebraska,NE,Theodore
+2022-08-21,2022-08-27,7,Nebraska,NE,Theodore
+2022-08-28,2022-09-03,7,Nebraska,NE,Theodore
+2022-09-04,2022-09-10,7,Nebraska,NE,Eli
+2022-09-11,2022-09-17,7,Nebraska,NE,Jackson
+2022-09-18,2022-09-24,7,Nebraska,NE,Jackson
+2022-09-25,2022-10-01,7,Nebraska,NE,Jackson
+2022-10-02,2022-10-08,7,Nebraska,NE,Jackson
+2022-10-09,2022-10-15,7,Nebraska,NE,Jackson
+2022-10-16,2022-10-22,7,Nebraska,NE,Jackson
+2022-10-23,2022-10-29,7,Nebraska,NE,Jackson
+2022-10-30,2022-11-05,7,Nebraska,NE,Jackson
+2022-11-06,2022-11-12,7,Nebraska,NE,Andrew
+2022-11-13,2022-11-19,7,Nebraska,NE,Jayden
+2022-11-20,2022-11-26,7,Nebraska,NE,William
+2022-11-27,2022-12-03,7,Nebraska,NE,William
+2022-01-02,2022-01-08,7,Nevada,NV,Eli
+2022-01-09,2022-01-15,7,Nevada,NV,Eli
+2022-01-16,2022-01-22,7,Nevada,NV,Eli
+2022-01-23,2022-01-29,7,Nevada,NV,Derrick
+2022-01-30,2022-02-05,7,Nevada,NV,William
+2022-02-06,2022-02-12,7,Nevada,NV,Nolan
+2022-02-13,2022-02-19,7,Nevada,NV,Nolan
+2022-02-20,2022-02-26,7,Nevada,NV,Nolan
+2022-02-27,2022-03-05,7,Nevada,NV,Nolan
+2022-03-06,2022-03-12,7,Nevada,NV,Nolan
+2022-03-13,2022-03-19,7,Nevada,NV,Nolan
+2022-03-20,2022-03-26,7,Nevada,NV,Nolan
+2022-03-27,2022-04-02,7,Nevada,NV,Jackson
+2022-04-03,2022-04-09,7,Nevada,NV,Jackson
+2022-04-10,2022-04-16,7,Nevada,NV,Jackson
+2022-04-17,2022-04-23,7,Nevada,NV,Jackson
+2022-04-24,2022-04-30,7,Nevada,NV,Jackson
+2022-05-01,2022-05-07,7,Nevada,NV,Jackson
+2022-05-08,2022-05-14,7,Nevada,NV,Jackson
+2022-05-15,2022-05-21,7,Nevada,NV,Jackson
+2022-05-22,2022-05-28,7,Nevada,NV,Adam
+2022-05-29,2022-06-04,7,Nevada,NV,Jackson
+2022-06-05,2022-06-11,7,Nevada,NV,Andrew
+2022-06-12,2022-06-18,7,Nevada,NV,Ryan
+2022-06-19,2022-06-25,7,Nevada,NV,Ryan
+2022-06-26,2022-07-02,7,Nevada,NV,Ryan
+2022-07-03,2022-07-09,7,Nevada,NV,Ryan
+2022-07-10,2022-07-16,7,Nevada,NV,Ryan
+2022-07-17,2022-07-23,7,Nevada,NV,Ryan
+2022-07-24,2022-07-30,7,Nevada,NV,Ryan
+2022-07-31,2022-08-06,7,Nevada,NV,Ryan
+2022-08-07,2022-08-13,7,Nevada,NV,Theodore
+2022-08-14,2022-08-20,7,Nevada,NV,Theodore
+2022-08-21,2022-08-27,7,Nevada,NV,Theodore
+2022-08-28,2022-09-03,7,Nevada,NV,Theodore
+2022-09-04,2022-09-10,7,Nevada,NV,Eli
+2022-09-11,2022-09-17,7,Nevada,NV,Jackson
+2022-09-18,2022-09-24,7,Nevada,NV,Jackson
+2022-09-25,2022-10-01,7,Nevada,NV,Jackson
+2022-10-02,2022-10-08,7,Nevada,NV,Jackson
+2022-10-09,2022-10-15,7,Nevada,NV,Jackson
+2022-10-16,2022-10-22,7,Nevada,NV,Jackson
+2022-10-23,2022-10-29,7,Nevada,NV,Jackson
+2022-10-30,2022-11-05,7,Nevada,NV,Jackson
+2022-11-06,2022-11-12,7,Nevada,NV,Andrew
+2022-11-13,2022-11-19,7,Nevada,NV,Jayden
+2022-11-20,2022-11-26,7,Nevada,NV,William
+2022-11-27,2022-12-03,7,Nevada,NV,William
+2022-01-02,2022-01-08,7,New Hampshire,NH,Eli
+2022-01-09,2022-01-15,7,New Hampshire,NH,Eli
+2022-01-16,2022-01-22,7,New Hampshire,NH,Eli
+2022-01-23,2022-01-29,7,New Hampshire,NH,Derrick
+2022-01-30,2022-02-05,7,New Hampshire,NH,William
+2022-02-06,2022-02-12,7,New Hampshire,NH,Nolan
+2022-02-13,2022-02-19,7,New Hampshire,NH,Nolan
+2022-02-20,2022-02-26,7,New Hampshire,NH,Nolan
+2022-02-27,2022-03-05,7,New Hampshire,NH,Nolan
+2022-03-06,2022-03-12,7,New Hampshire,NH,Nolan
+2022-03-13,2022-03-19,7,New Hampshire,NH,Nolan
+2022-03-20,2022-03-26,7,New Hampshire,NH,Nolan
+2022-03-27,2022-04-02,7,New Hampshire,NH,Jackson
+2022-04-03,2022-04-09,7,New Hampshire,NH,Jackson
+2022-04-10,2022-04-16,7,New Hampshire,NH,Jackson
+2022-04-17,2022-04-23,7,New Hampshire,NH,Jackson
+2022-04-24,2022-04-30,7,New Hampshire,NH,Jackson
+2022-05-01,2022-05-07,7,New Hampshire,NH,Jackson
+2022-05-08,2022-05-14,7,New Hampshire,NH,Jackson
+2022-05-15,2022-05-21,7,New Hampshire,NH,Jackson
+2022-05-22,2022-05-28,7,New Hampshire,NH,Adam
+2022-05-29,2022-06-04,7,New Hampshire,NH,Jackson
+2022-06-05,2022-06-11,7,New Hampshire,NH,Andrew
+2022-06-12,2022-06-18,7,New Hampshire,NH,Ryan
+2022-06-19,2022-06-25,7,New Hampshire,NH,Ryan
+2022-06-26,2022-07-02,7,New Hampshire,NH,Ryan
+2022-07-03,2022-07-09,7,New Hampshire,NH,Ryan
+2022-07-10,2022-07-16,7,New Hampshire,NH,Ryan
+2022-07-17,2022-07-23,7,New Hampshire,NH,Ryan
+2022-07-24,2022-07-30,7,New Hampshire,NH,Ryan
+2022-07-31,2022-08-06,7,New Hampshire,NH,Ryan
+2022-08-07,2022-08-13,7,New Hampshire,NH,Theodore
+2022-08-14,2022-08-20,7,New Hampshire,NH,Theodore
+2022-08-21,2022-08-27,7,New Hampshire,NH,Theodore
+2022-08-28,2022-09-03,7,New Hampshire,NH,Theodore
+2022-09-04,2022-09-10,7,New Hampshire,NH,Eli
+2022-09-11,2022-09-17,7,New Hampshire,NH,Jackson
+2022-09-18,2022-09-24,7,New Hampshire,NH,Jackson
+2022-09-25,2022-10-01,7,New Hampshire,NH,Jackson
+2022-10-02,2022-10-08,7,New Hampshire,NH,Jackson
+2022-10-09,2022-10-15,7,New Hampshire,NH,Jackson
+2022-10-16,2022-10-22,7,New Hampshire,NH,Jackson
+2022-10-23,2022-10-29,7,New Hampshire,NH,Jackson
+2022-10-30,2022-11-05,7,New Hampshire,NH,Jackson
+2022-11-06,2022-11-12,7,New Hampshire,NH,Andrew
+2022-11-13,2022-11-19,7,New Hampshire,NH,Jayden
+2022-11-20,2022-11-26,7,New Hampshire,NH,William
+2022-11-27,2022-12-03,7,New Hampshire,NH,William
+2022-01-02,2022-01-08,7,New Jersey,NJ,Eli
+2022-01-09,2022-01-15,7,New Jersey,NJ,Eli
+2022-01-16,2022-01-22,7,New Jersey,NJ,Eli
+2022-01-23,2022-01-29,7,New Jersey,NJ,Derrick
+2022-01-30,2022-02-05,7,New Jersey,NJ,William
+2022-02-06,2022-02-12,7,New Jersey,NJ,Nolan
+2022-02-13,2022-02-19,7,New Jersey,NJ,Nolan
+2022-02-20,2022-02-26,7,New Jersey,NJ,Nolan
+2022-02-27,2022-03-05,7,New Jersey,NJ,Nolan
+2022-03-06,2022-03-12,7,New Jersey,NJ,Nolan
+2022-03-13,2022-03-19,7,New Jersey,NJ,Nolan
+2022-03-20,2022-03-26,7,New Jersey,NJ,Nolan
+2022-03-27,2022-04-02,7,New Jersey,NJ,Jackson
+2022-04-03,2022-04-09,7,New Jersey,NJ,Jackson
+2022-04-10,2022-04-16,7,New Jersey,NJ,Jackson
+2022-04-17,2022-04-23,7,New Jersey,NJ,Jackson
+2022-04-24,2022-04-30,7,New Jersey,NJ,Jackson
+2022-05-01,2022-05-07,7,New Jersey,NJ,Jackson
+2022-05-08,2022-05-14,7,New Jersey,NJ,Jackson
+2022-05-15,2022-05-21,7,New Jersey,NJ,Jackson
+2022-05-22,2022-05-28,7,New Jersey,NJ,Adam
+2022-05-29,2022-06-04,7,New Jersey,NJ,Jackson
+2022-06-05,2022-06-11,7,New Jersey,NJ,Andrew
+2022-06-12,2022-06-18,7,New Jersey,NJ,Ryan
+2022-06-19,2022-06-25,7,New Jersey,NJ,Ryan
+2022-06-26,2022-07-02,7,New Jersey,NJ,Ryan
+2022-07-03,2022-07-09,7,New Jersey,NJ,Ryan
+2022-07-10,2022-07-16,7,New Jersey,NJ,Ryan
+2022-07-17,2022-07-23,7,New Jersey,NJ,Ryan
+2022-07-24,2022-07-30,7,New Jersey,NJ,Ryan
+2022-07-31,2022-08-06,7,New Jersey,NJ,Ryan
+2022-08-07,2022-08-13,7,New Jersey,NJ,Theodore
+2022-08-14,2022-08-20,7,New Jersey,NJ,Theodore
+2022-08-21,2022-08-27,7,New Jersey,NJ,Theodore
+2022-08-28,2022-09-03,7,New Jersey,NJ,Theodore
+2022-09-04,2022-09-10,7,New Jersey,NJ,Eli
+2022-09-11,2022-09-17,7,New Jersey,NJ,Jackson
+2022-09-18,2022-09-24,7,New Jersey,NJ,Jackson
+2022-09-25,2022-10-01,7,New Jersey,NJ,Jackson
+2022-10-02,2022-10-08,7,New Jersey,NJ,Jackson
+2022-10-09,2022-10-15,7,New Jersey,NJ,Jackson
+2022-10-16,2022-10-22,7,New Jersey,NJ,Jackson
+2022-10-23,2022-10-29,7,New Jersey,NJ,Jackson
+2022-10-30,2022-11-05,7,New Jersey,NJ,Jackson
+2022-11-06,2022-11-12,7,New Jersey,NJ,Andrew
+2022-11-13,2022-11-19,7,New Jersey,NJ,Jayden
+2022-11-20,2022-11-26,7,New Jersey,NJ,William
+2022-11-27,2022-12-03,7,New Jersey,NJ,William
+2022-01-02,2022-01-08,7,New Mexico,NM,Eli
+2022-01-09,2022-01-15,7,New Mexico,NM,Eli
+2022-01-16,2022-01-22,7,New Mexico,NM,Eli
+2022-01-23,2022-01-29,7,New Mexico,NM,Derrick
+2022-01-30,2022-02-05,7,New Mexico,NM,William
+2022-02-06,2022-02-12,7,New Mexico,NM,Nolan
+2022-02-13,2022-02-19,7,New Mexico,NM,Nolan
+2022-02-20,2022-02-26,7,New Mexico,NM,Nolan
+2022-02-27,2022-03-05,7,New Mexico,NM,Nolan
+2022-03-06,2022-03-12,7,New Mexico,NM,Nolan
+2022-03-13,2022-03-19,7,New Mexico,NM,Nolan
+2022-03-20,2022-03-26,7,New Mexico,NM,Nolan
+2022-03-27,2022-04-02,7,New Mexico,NM,Jackson
+2022-04-03,2022-04-09,7,New Mexico,NM,Jackson
+2022-04-10,2022-04-16,7,New Mexico,NM,Jackson
+2022-04-17,2022-04-23,7,New Mexico,NM,Jackson
+2022-04-24,2022-04-30,7,New Mexico,NM,Jackson
+2022-05-01,2022-05-07,7,New Mexico,NM,Jackson
+2022-05-08,2022-05-14,7,New Mexico,NM,Jackson
+2022-05-15,2022-05-21,7,New Mexico,NM,Jackson
+2022-05-22,2022-05-28,7,New Mexico,NM,Adam
+2022-05-29,2022-06-04,7,New Mexico,NM,Jackson
+2022-06-05,2022-06-11,7,New Mexico,NM,Andrew
+2022-06-12,2022-06-18,7,New Mexico,NM,Ryan
+2022-06-19,2022-06-25,7,New Mexico,NM,Ryan
+2022-06-26,2022-07-02,7,New Mexico,NM,Ryan
+2022-07-03,2022-07-09,7,New Mexico,NM,Ryan
+2022-07-10,2022-07-16,7,New Mexico,NM,Ryan
+2022-07-17,2022-07-23,7,New Mexico,NM,Ryan
+2022-07-24,2022-07-30,7,New Mexico,NM,Ryan
+2022-07-31,2022-08-06,7,New Mexico,NM,Ryan
+2022-08-07,2022-08-13,7,New Mexico,NM,Theodore
+2022-08-14,2022-08-20,7,New Mexico,NM,Theodore
+2022-08-21,2022-08-27,7,New Mexico,NM,Theodore
+2022-08-28,2022-09-03,7,New Mexico,NM,Theodore
+2022-09-04,2022-09-10,7,New Mexico,NM,Eli
+2022-09-11,2022-09-17,7,New Mexico,NM,Jackson
+2022-09-18,2022-09-24,7,New Mexico,NM,Jackson
+2022-09-25,2022-10-01,7,New Mexico,NM,Jackson
+2022-10-02,2022-10-08,7,New Mexico,NM,Jackson
+2022-10-09,2022-10-15,7,New Mexico,NM,Jackson
+2022-10-16,2022-10-22,7,New Mexico,NM,Jackson
+2022-10-23,2022-10-29,7,New Mexico,NM,Jackson
+2022-10-30,2022-11-05,7,New Mexico,NM,Jackson
+2022-11-06,2022-11-12,7,New Mexico,NM,Andrew
+2022-11-13,2022-11-19,7,New Mexico,NM,Jayden
+2022-11-20,2022-11-26,7,New Mexico,NM,William
+2022-11-27,2022-12-03,7,New Mexico,NM,William
+2022-01-02,2022-01-08,7,New York,NY,Eli
+2022-01-09,2022-01-15,7,New York,NY,Eli
+2022-01-16,2022-01-22,7,New York,NY,Eli
+2022-01-23,2022-01-29,7,New York,NY,Derrick
+2022-01-30,2022-02-05,7,New York,NY,William
+2022-02-06,2022-02-12,7,New York,NY,Nolan
+2022-02-13,2022-02-19,7,New York,NY,Nolan
+2022-02-20,2022-02-26,7,New York,NY,Nolan
+2022-02-27,2022-03-05,7,New York,NY,Nolan
+2022-03-06,2022-03-12,7,New York,NY,Nolan
+2022-03-13,2022-03-19,7,New York,NY,Nolan
+2022-03-20,2022-03-26,7,New York,NY,Nolan
+2022-03-27,2022-04-02,7,New York,NY,Jackson
+2022-04-03,2022-04-09,7,New York,NY,Jackson
+2022-04-10,2022-04-16,7,New York,NY,Jackson
+2022-04-17,2022-04-23,7,New York,NY,Jackson
+2022-04-24,2022-04-30,7,New York,NY,Jackson
+2022-05-01,2022-05-07,7,New York,NY,Jackson
+2022-05-08,2022-05-14,7,New York,NY,Jackson
+2022-05-15,2022-05-21,7,New York,NY,Jackson
+2022-05-22,2022-05-28,7,New York,NY,Adam
+2022-05-29,2022-06-04,7,New York,NY,Jackson
+2022-06-05,2022-06-11,7,New York,NY,Andrew
+2022-06-12,2022-06-18,7,New York,NY,Ryan
+2022-06-19,2022-06-25,7,New York,NY,Ryan
+2022-06-26,2022-07-02,7,New York,NY,Ryan
+2022-07-03,2022-07-09,7,New York,NY,Ryan
+2022-07-10,2022-07-16,7,New York,NY,Ryan
+2022-07-17,2022-07-23,7,New York,NY,Ryan
+2022-07-24,2022-07-30,7,New York,NY,Ryan
+2022-07-31,2022-08-06,7,New York,NY,Ryan
+2022-08-07,2022-08-13,7,New York,NY,Theodore
+2022-08-14,2022-08-20,7,New York,NY,Theodore
+2022-08-21,2022-08-27,7,New York,NY,Theodore
+2022-08-28,2022-09-03,7,New York,NY,Theodore
+2022-09-04,2022-09-10,7,New York,NY,Eli
+2022-09-11,2022-09-17,7,New York,NY,Jackson
+2022-09-18,2022-09-24,7,New York,NY,Jackson
+2022-09-25,2022-10-01,7,New York,NY,Jackson
+2022-10-02,2022-10-08,7,New York,NY,Jackson
+2022-10-09,2022-10-15,7,New York,NY,Jackson
+2022-10-16,2022-10-22,7,New York,NY,Jackson
+2022-10-23,2022-10-29,7,New York,NY,Jackson
+2022-10-30,2022-11-05,7,New York,NY,Jackson
+2022-11-06,2022-11-12,7,New York,NY,Andrew
+2022-11-13,2022-11-19,7,New York,NY,Jayden
+2022-11-20,2022-11-26,7,New York,NY,William
+2022-11-27,2022-12-03,7,New York,NY,William
+2022-01-02,2022-01-08,7,North Carolina,NC,Eli
+2022-01-09,2022-01-15,7,North Carolina,NC,Eli
+2022-01-16,2022-01-22,7,North Carolina,NC,Eli
+2022-01-23,2022-01-29,7,North Carolina,NC,Derrick
+2022-01-30,2022-02-05,7,North Carolina,NC,William
+2022-02-06,2022-02-12,7,North Carolina,NC,Nolan
+2022-02-13,2022-02-19,7,North Carolina,NC,Nolan
+2022-02-20,2022-02-26,7,North Carolina,NC,Nolan
+2022-02-27,2022-03-05,7,North Carolina,NC,Nolan
+2022-03-06,2022-03-12,7,North Carolina,NC,Nolan
+2022-03-13,2022-03-19,7,North Carolina,NC,Nolan
+2022-03-20,2022-03-26,7,North Carolina,NC,Nolan
+2022-03-27,2022-04-02,7,North Carolina,NC,Jackson
+2022-04-03,2022-04-09,7,North Carolina,NC,Jackson
+2022-04-10,2022-04-16,7,North Carolina,NC,Jackson
+2022-04-17,2022-04-23,7,North Carolina,NC,Jackson
+2022-04-24,2022-04-30,7,North Carolina,NC,Jackson
+2022-05-01,2022-05-07,7,North Carolina,NC,Jackson
+2022-05-08,2022-05-14,7,North Carolina,NC,Jackson
+2022-05-15,2022-05-21,7,North Carolina,NC,Jackson
+2022-05-22,2022-05-28,7,North Carolina,NC,Adam
+2022-05-29,2022-06-04,7,North Carolina,NC,Jackson
+2022-06-05,2022-06-11,7,North Carolina,NC,Andrew
+2022-06-12,2022-06-18,7,North Carolina,NC,Ryan
+2022-06-19,2022-06-25,7,North Carolina,NC,Ryan
+2022-06-26,2022-07-02,7,North Carolina,NC,Ryan
+2022-07-03,2022-07-09,7,North Carolina,NC,Ryan
+2022-07-10,2022-07-16,7,North Carolina,NC,Ryan
+2022-07-17,2022-07-23,7,North Carolina,NC,Ryan
+2022-07-24,2022-07-30,7,North Carolina,NC,Ryan
+2022-07-31,2022-08-06,7,North Carolina,NC,Ryan
+2022-08-07,2022-08-13,7,North Carolina,NC,Theodore
+2022-08-14,2022-08-20,7,North Carolina,NC,Theodore
+2022-08-21,2022-08-27,7,North Carolina,NC,Theodore
+2022-08-28,2022-09-03,7,North Carolina,NC,Theodore
+2022-09-04,2022-09-10,7,North Carolina,NC,Eli
+2022-09-11,2022-09-17,7,North Carolina,NC,Jackson
+2022-09-18,2022-09-24,7,North Carolina,NC,Jackson
+2022-09-25,2022-10-01,7,North Carolina,NC,Jackson
+2022-10-02,2022-10-08,7,North Carolina,NC,Jackson
+2022-10-09,2022-10-15,7,North Carolina,NC,Jackson
+2022-10-16,2022-10-22,7,North Carolina,NC,Jackson
+2022-10-23,2022-10-29,7,North Carolina,NC,Jackson
+2022-10-30,2022-11-05,7,North Carolina,NC,Jackson
+2022-11-06,2022-11-12,7,North Carolina,NC,Andrew
+2022-11-13,2022-11-19,7,North Carolina,NC,Jayden
+2022-11-20,2022-11-26,7,North Carolina,NC,William
+2022-11-27,2022-12-03,7,North Carolina,NC,William
+2022-01-02,2022-01-08,7,North Dakota,ND,Eli
+2022-01-09,2022-01-15,7,North Dakota,ND,Eli
+2022-01-16,2022-01-22,7,North Dakota,ND,Eli
+2022-01-23,2022-01-29,7,North Dakota,ND,Derrick
+2022-01-30,2022-02-05,7,North Dakota,ND,William
+2022-02-06,2022-02-12,7,North Dakota,ND,Nolan
+2022-02-13,2022-02-19,7,North Dakota,ND,Nolan
+2022-02-20,2022-02-26,7,North Dakota,ND,Nolan
+2022-02-27,2022-03-05,7,North Dakota,ND,Nolan
+2022-03-06,2022-03-12,7,North Dakota,ND,Nolan
+2022-03-13,2022-03-19,7,North Dakota,ND,Nolan
+2022-03-20,2022-03-26,7,North Dakota,ND,Nolan
+2022-03-27,2022-04-02,7,North Dakota,ND,Jackson
+2022-04-03,2022-04-09,7,North Dakota,ND,Jackson
+2022-04-10,2022-04-16,7,North Dakota,ND,Jackson
+2022-04-17,2022-04-23,7,North Dakota,ND,Jackson
+2022-04-24,2022-04-30,7,North Dakota,ND,Jackson
+2022-05-01,2022-05-07,7,North Dakota,ND,Jackson
+2022-05-08,2022-05-14,7,North Dakota,ND,Jackson
+2022-05-15,2022-05-21,7,North Dakota,ND,Jackson
+2022-05-22,2022-05-28,7,North Dakota,ND,Adam
+2022-05-29,2022-06-04,7,North Dakota,ND,Jackson
+2022-06-05,2022-06-11,7,North Dakota,ND,Andrew
+2022-06-12,2022-06-18,7,North Dakota,ND,Ryan
+2022-06-19,2022-06-25,7,North Dakota,ND,Ryan
+2022-06-26,2022-07-02,7,North Dakota,ND,Ryan
+2022-07-03,2022-07-09,7,North Dakota,ND,Ryan
+2022-07-10,2022-07-16,7,North Dakota,ND,Ryan
+2022-07-17,2022-07-23,7,North Dakota,ND,Ryan
+2022-07-24,2022-07-30,7,North Dakota,ND,Ryan
+2022-07-31,2022-08-06,7,North Dakota,ND,Ryan
+2022-08-07,2022-08-13,7,North Dakota,ND,Theodore
+2022-08-14,2022-08-20,7,North Dakota,ND,Theodore
+2022-08-21,2022-08-27,7,North Dakota,ND,Theodore
+2022-08-28,2022-09-03,7,North Dakota,ND,Theodore
+2022-09-04,2022-09-10,7,North Dakota,ND,Eli
+2022-09-11,2022-09-17,7,North Dakota,ND,Jackson
+2022-09-18,2022-09-24,7,North Dakota,ND,Jackson
+2022-09-25,2022-10-01,7,North Dakota,ND,Jackson
+2022-10-02,2022-10-08,7,North Dakota,ND,Jackson
+2022-10-09,2022-10-15,7,North Dakota,ND,Jackson
+2022-10-16,2022-10-22,7,North Dakota,ND,Jackson
+2022-10-23,2022-10-29,7,North Dakota,ND,Jackson
+2022-10-30,2022-11-05,7,North Dakota,ND,Jackson
+2022-11-06,2022-11-12,7,North Dakota,ND,Andrew
+2022-11-13,2022-11-19,7,North Dakota,ND,Jayden
+2022-11-20,2022-11-26,7,North Dakota,ND,William
+2022-11-27,2022-12-03,7,North Dakota,ND,William
+2022-01-02,2022-01-08,7,Ohio,OH,Eli
+2022-01-09,2022-01-15,7,Ohio,OH,Eli
+2022-01-16,2022-01-22,7,Ohio,OH,Eli
+2022-01-23,2022-01-29,7,Ohio,OH,Derrick
+2022-01-30,2022-02-05,7,Ohio,OH,William
+2022-02-06,2022-02-12,7,Ohio,OH,Nolan
+2022-02-13,2022-02-19,7,Ohio,OH,Nolan
+2022-02-20,2022-02-26,7,Ohio,OH,Nolan
+2022-02-27,2022-03-05,7,Ohio,OH,Nolan
+2022-03-06,2022-03-12,7,Ohio,OH,Nolan
+2022-03-13,2022-03-19,7,Ohio,OH,Nolan
+2022-03-20,2022-03-26,7,Ohio,OH,Nolan
+2022-03-27,2022-04-02,7,Ohio,OH,Jackson
+2022-04-03,2022-04-09,7,Ohio,OH,Jackson
+2022-04-10,2022-04-16,7,Ohio,OH,Jackson
+2022-04-17,2022-04-23,7,Ohio,OH,Jackson
+2022-04-24,2022-04-30,7,Ohio,OH,Jackson
+2022-05-01,2022-05-07,7,Ohio,OH,Jackson
+2022-05-08,2022-05-14,7,Ohio,OH,Jackson
+2022-05-15,2022-05-21,7,Ohio,OH,Jackson
+2022-05-22,2022-05-28,7,Ohio,OH,Adam
+2022-05-29,2022-06-04,7,Ohio,OH,Jackson
+2022-06-05,2022-06-11,7,Ohio,OH,Andrew
+2022-06-12,2022-06-18,7,Ohio,OH,Ryan
+2022-06-19,2022-06-25,7,Ohio,OH,Ryan
+2022-06-26,2022-07-02,7,Ohio,OH,Ryan
+2022-07-03,2022-07-09,7,Ohio,OH,Ryan
+2022-07-10,2022-07-16,7,Ohio,OH,Ryan
+2022-07-17,2022-07-23,7,Ohio,OH,Ryan
+2022-07-24,2022-07-30,7,Ohio,OH,Ryan
+2022-07-31,2022-08-06,7,Ohio,OH,Ryan
+2022-08-07,2022-08-13,7,Ohio,OH,Theodore
+2022-08-14,2022-08-20,7,Ohio,OH,Theodore
+2022-08-21,2022-08-27,7,Ohio,OH,Theodore
+2022-08-28,2022-09-03,7,Ohio,OH,Theodore
+2022-09-04,2022-09-10,7,Ohio,OH,Eli
+2022-09-11,2022-09-17,7,Ohio,OH,Jackson
+2022-09-18,2022-09-24,7,Ohio,OH,Jackson
+2022-09-25,2022-10-01,7,Ohio,OH,Jackson
+2022-10-02,2022-10-08,7,Ohio,OH,Jackson
+2022-10-09,2022-10-15,7,Ohio,OH,Jackson
+2022-10-16,2022-10-22,7,Ohio,OH,Jackson
+2022-10-23,2022-10-29,7,Ohio,OH,Jackson
+2022-10-30,2022-11-05,7,Ohio,OH,Jackson
+2022-11-06,2022-11-12,7,Ohio,OH,Andrew
+2022-11-13,2022-11-19,7,Ohio,OH,Jayden
+2022-11-20,2022-11-26,7,Ohio,OH,William
+2022-11-27,2022-12-03,7,Ohio,OH,William
+2022-01-02,2022-01-08,7,Oklahoma,OK,Eli
+2022-01-09,2022-01-15,7,Oklahoma,OK,Eli
+2022-01-16,2022-01-22,7,Oklahoma,OK,Eli
+2022-01-23,2022-01-29,7,Oklahoma,OK,Derrick
+2022-01-30,2022-02-05,7,Oklahoma,OK,William
+2022-02-06,2022-02-12,7,Oklahoma,OK,Nolan
+2022-02-13,2022-02-19,7,Oklahoma,OK,Nolan
+2022-02-20,2022-02-26,7,Oklahoma,OK,Nolan
+2022-02-27,2022-03-05,7,Oklahoma,OK,Nolan
+2022-03-06,2022-03-12,7,Oklahoma,OK,Nolan
+2022-03-13,2022-03-19,7,Oklahoma,OK,Nolan
+2022-03-20,2022-03-26,7,Oklahoma,OK,Nolan
+2022-03-27,2022-04-02,7,Oklahoma,OK,Jackson
+2022-04-03,2022-04-09,7,Oklahoma,OK,Jackson
+2022-04-10,2022-04-16,7,Oklahoma,OK,Jackson
+2022-04-17,2022-04-23,7,Oklahoma,OK,Jackson
+2022-04-24,2022-04-30,7,Oklahoma,OK,Jackson
+2022-05-01,2022-05-07,7,Oklahoma,OK,Jackson
+2022-05-08,2022-05-14,7,Oklahoma,OK,Jackson
+2022-05-15,2022-05-21,7,Oklahoma,OK,Jackson
+2022-05-22,2022-05-28,7,Oklahoma,OK,Adam
+2022-05-29,2022-06-04,7,Oklahoma,OK,Jackson
+2022-06-05,2022-06-11,7,Oklahoma,OK,Andrew
+2022-06-12,2022-06-18,7,Oklahoma,OK,Ryan
+2022-06-19,2022-06-25,7,Oklahoma,OK,Ryan
+2022-06-26,2022-07-02,7,Oklahoma,OK,Ryan
+2022-07-03,2022-07-09,7,Oklahoma,OK,Ryan
+2022-07-10,2022-07-16,7,Oklahoma,OK,Ryan
+2022-07-17,2022-07-23,7,Oklahoma,OK,Ryan
+2022-07-24,2022-07-30,7,Oklahoma,OK,Ryan
+2022-07-31,2022-08-06,7,Oklahoma,OK,Ryan
+2022-08-07,2022-08-13,7,Oklahoma,OK,Theodore
+2022-08-14,2022-08-20,7,Oklahoma,OK,Theodore
+2022-08-21,2022-08-27,7,Oklahoma,OK,Theodore
+2022-08-28,2022-09-03,7,Oklahoma,OK,Theodore
+2022-09-04,2022-09-10,7,Oklahoma,OK,Eli
+2022-09-11,2022-09-17,7,Oklahoma,OK,Jackson
+2022-09-18,2022-09-24,7,Oklahoma,OK,Jackson
+2022-09-25,2022-10-01,7,Oklahoma,OK,Jackson
+2022-10-02,2022-10-08,7,Oklahoma,OK,Jackson
+2022-10-09,2022-10-15,7,Oklahoma,OK,Jackson
+2022-10-16,2022-10-22,7,Oklahoma,OK,Jackson
+2022-10-23,2022-10-29,7,Oklahoma,OK,Jackson
+2022-10-30,2022-11-05,7,Oklahoma,OK,Jackson
+2022-11-06,2022-11-12,7,Oklahoma,OK,Andrew
+2022-11-13,2022-11-19,7,Oklahoma,OK,Jayden
+2022-11-20,2022-11-26,7,Oklahoma,OK,William
+2022-11-27,2022-12-03,7,Oklahoma,OK,William
+2022-01-02,2022-01-08,7,Oregon,OR,Eli
+2022-01-09,2022-01-15,7,Oregon,OR,Eli
+2022-01-16,2022-01-22,7,Oregon,OR,Eli
+2022-01-23,2022-01-29,7,Oregon,OR,Derrick
+2022-01-30,2022-02-05,7,Oregon,OR,William
+2022-02-06,2022-02-12,7,Oregon,OR,Nolan
+2022-02-13,2022-02-19,7,Oregon,OR,Nolan
+2022-02-20,2022-02-26,7,Oregon,OR,Nolan
+2022-02-27,2022-03-05,7,Oregon,OR,Nolan
+2022-03-06,2022-03-12,7,Oregon,OR,Nolan
+2022-03-13,2022-03-19,7,Oregon,OR,Nolan
+2022-03-20,2022-03-26,7,Oregon,OR,Nolan
+2022-03-27,2022-04-02,7,Oregon,OR,Jackson
+2022-04-03,2022-04-09,7,Oregon,OR,Jackson
+2022-04-10,2022-04-16,7,Oregon,OR,Jackson
+2022-04-17,2022-04-23,7,Oregon,OR,Jackson
+2022-04-24,2022-04-30,7,Oregon,OR,Jackson
+2022-05-01,2022-05-07,7,Oregon,OR,Jackson
+2022-05-08,2022-05-14,7,Oregon,OR,Jackson
+2022-05-15,2022-05-21,7,Oregon,OR,Jackson
+2022-05-22,2022-05-28,7,Oregon,OR,Adam
+2022-05-29,2022-06-04,7,Oregon,OR,Jackson
+2022-06-05,2022-06-11,7,Oregon,OR,Andrew
+2022-06-12,2022-06-18,7,Oregon,OR,Ryan
+2022-06-19,2022-06-25,7,Oregon,OR,Ryan
+2022-06-26,2022-07-02,7,Oregon,OR,Ryan
+2022-07-03,2022-07-09,7,Oregon,OR,Ryan
+2022-07-10,2022-07-16,7,Oregon,OR,Ryan
+2022-07-17,2022-07-23,7,Oregon,OR,Ryan
+2022-07-24,2022-07-30,7,Oregon,OR,Ryan
+2022-07-31,2022-08-06,7,Oregon,OR,Ryan
+2022-08-07,2022-08-13,7,Oregon,OR,Theodore
+2022-08-14,2022-08-20,7,Oregon,OR,Theodore
+2022-08-21,2022-08-27,7,Oregon,OR,Theodore
+2022-08-28,2022-09-03,7,Oregon,OR,Theodore
+2022-09-04,2022-09-10,7,Oregon,OR,Eli
+2022-09-11,2022-09-17,7,Oregon,OR,Jackson
+2022-09-18,2022-09-24,7,Oregon,OR,Jackson
+2022-09-25,2022-10-01,7,Oregon,OR,Jackson
+2022-10-02,2022-10-08,7,Oregon,OR,Jackson
+2022-10-09,2022-10-15,7,Oregon,OR,Jackson
+2022-10-16,2022-10-22,7,Oregon,OR,Jackson
+2022-10-23,2022-10-29,7,Oregon,OR,Jackson
+2022-10-30,2022-11-05,7,Oregon,OR,Jackson
+2022-11-06,2022-11-12,7,Oregon,OR,Andrew
+2022-11-13,2022-11-19,7,Oregon,OR,Jayden
+2022-11-20,2022-11-26,7,Oregon,OR,William
+2022-11-27,2022-12-03,7,Oregon,OR,William
+2022-01-02,2022-01-08,7,Pennsylvania,PA,Eli
+2022-01-09,2022-01-15,7,Pennsylvania,PA,Miles
+2022-01-16,2022-01-22,7,Pennsylvania,PA,Miles
+2022-01-23,2022-01-29,7,Pennsylvania,PA,Derrick
+2022-01-30,2022-02-05,7,Pennsylvania,PA,William
+2022-02-06,2022-02-12,7,Pennsylvania,PA,Eli
+2022-02-13,2022-02-19,7,Pennsylvania,PA,Eli
+2022-02-20,2022-02-26,7,Pennsylvania,PA,Eli
+2022-02-27,2022-03-05,7,Pennsylvania,PA,Eli
+2022-03-06,2022-03-12,7,Pennsylvania,PA,Jayden
+2022-03-13,2022-03-19,7,Pennsylvania,PA,Nolan
+2022-03-20,2022-03-26,7,Pennsylvania,PA,Jackson
+2022-03-27,2022-04-02,7,Pennsylvania,PA,Jackson
+2022-04-03,2022-04-09,7,Pennsylvania,PA,Andrew
+2022-04-10,2022-04-16,7,Pennsylvania,PA,Andrew
+2022-04-17,2022-04-23,7,Pennsylvania,PA,Andrew
+2022-04-24,2022-04-30,7,Pennsylvania,PA,Andrew
+2022-05-01,2022-05-07,7,Pennsylvania,PA,Eli
+2022-05-08,2022-05-14,7,Pennsylvania,PA,Nicholas
+2022-05-15,2022-05-21,7,Pennsylvania,PA,Julian
+2022-05-22,2022-05-28,7,Pennsylvania,PA,Adam
+2022-05-29,2022-06-04,7,Pennsylvania,PA,Jackson
+2022-06-05,2022-06-11,7,Pennsylvania,PA,Andrew
+2022-06-12,2022-06-18,7,Pennsylvania,PA,Hudson
+2022-06-19,2022-06-25,7,Pennsylvania,PA,Hudson
+2022-06-26,2022-07-02,7,Pennsylvania,PA,Hudson
+2022-07-03,2022-07-09,7,Pennsylvania,PA,Hudson
+2022-07-10,2022-07-16,7,Pennsylvania,PA,Nolan
+2022-07-17,2022-07-23,7,Pennsylvania,PA,Isaiah
+2022-07-24,2022-07-30,7,Pennsylvania,PA,Andrew
+2022-07-31,2022-08-06,7,Pennsylvania,PA,Eli
+2022-08-07,2022-08-13,7,Pennsylvania,PA,Eli
+2022-08-14,2022-08-20,7,Pennsylvania,PA,Eli
+2022-08-21,2022-08-27,7,Pennsylvania,PA,Eli
+2022-08-28,2022-09-03,7,Pennsylvania,PA,Eli
+2022-09-04,2022-09-10,7,Pennsylvania,PA,Eli
+2022-09-11,2022-09-17,7,Pennsylvania,PA,Jackson
+2022-09-18,2022-09-24,7,Pennsylvania,PA,Jackson
+2022-09-25,2022-10-01,7,Pennsylvania,PA,Hudson
+2022-10-02,2022-10-08,7,Pennsylvania,PA,Nicholas
+2022-10-09,2022-10-15,7,Pennsylvania,PA,Nicholas
+2022-10-16,2022-10-22,7,Pennsylvania,PA,Nicholas
+2022-10-23,2022-10-29,7,Pennsylvania,PA,Hudson
+2022-10-30,2022-11-05,7,Pennsylvania,PA,William
+2022-11-06,2022-11-12,7,Pennsylvania,PA,William
+2022-11-13,2022-11-19,7,Pennsylvania,PA,William
+2022-11-20,2022-11-26,7,Pennsylvania,PA,William
+2022-11-27,2022-12-03,7,Pennsylvania,PA,William
+2022-01-02,2022-01-08,7,Rhode Island,RI,Eli
+2022-01-09,2022-01-15,7,Rhode Island,RI,Miles
+2022-01-16,2022-01-22,7,Rhode Island,RI,Miles
+2022-01-23,2022-01-29,7,Rhode Island,RI,Derrick
+2022-01-30,2022-02-05,7,Rhode Island,RI,William
+2022-02-06,2022-02-12,7,Rhode Island,RI,Eli
+2022-02-13,2022-02-19,7,Rhode Island,RI,Eli
+2022-02-20,2022-02-26,7,Rhode Island,RI,Eli
+2022-02-27,2022-03-05,7,Rhode Island,RI,Eli
+2022-03-06,2022-03-12,7,Rhode Island,RI,Jayden
+2022-03-13,2022-03-19,7,Rhode Island,RI,Nolan
+2022-03-20,2022-03-26,7,Rhode Island,RI,Jackson
+2022-03-27,2022-04-02,7,Rhode Island,RI,Jackson
+2022-04-03,2022-04-09,7,Rhode Island,RI,Andrew
+2022-04-10,2022-04-16,7,Rhode Island,RI,Andrew
+2022-04-17,2022-04-23,7,Rhode Island,RI,Andrew
+2022-04-24,2022-04-30,7,Rhode Island,RI,Andrew
+2022-05-01,2022-05-07,7,Rhode Island,RI,Eli
+2022-05-08,2022-05-14,7,Rhode Island,RI,Nicholas
+2022-05-15,2022-05-21,7,Rhode Island,RI,Julian
+2022-05-22,2022-05-28,7,Rhode Island,RI,Adam
+2022-05-29,2022-06-04,7,Rhode Island,RI,Jackson
+2022-06-05,2022-06-11,7,Rhode Island,RI,Andrew
+2022-06-12,2022-06-18,7,Rhode Island,RI,Hudson
+2022-06-19,2022-06-25,7,Rhode Island,RI,Hudson
+2022-06-26,2022-07-02,7,Rhode Island,RI,Hudson
+2022-07-03,2022-07-09,7,Rhode Island,RI,Hudson
+2022-07-10,2022-07-16,7,Rhode Island,RI,Nolan
+2022-07-17,2022-07-23,7,Rhode Island,RI,Isaiah
+2022-07-24,2022-07-30,7,Rhode Island,RI,Andrew
+2022-07-31,2022-08-06,7,Rhode Island,RI,Eli
+2022-08-07,2022-08-13,7,Rhode Island,RI,Eli
+2022-08-14,2022-08-20,7,Rhode Island,RI,Eli
+2022-08-21,2022-08-27,7,Rhode Island,RI,Eli
+2022-08-28,2022-09-03,7,Rhode Island,RI,Eli
+2022-09-04,2022-09-10,7,Rhode Island,RI,Eli
+2022-09-11,2022-09-17,7,Rhode Island,RI,Jackson
+2022-09-18,2022-09-24,7,Rhode Island,RI,Jackson
+2022-09-25,2022-10-01,7,Rhode Island,RI,Hudson
+2022-10-02,2022-10-08,7,Rhode Island,RI,Nicholas
+2022-10-09,2022-10-15,7,Rhode Island,RI,Nicholas
+2022-10-16,2022-10-22,7,Rhode Island,RI,Nicholas
+2022-10-23,2022-10-29,7,Rhode Island,RI,Hudson
+2022-10-30,2022-11-05,7,Rhode Island,RI,William
+2022-11-06,2022-11-12,7,Rhode Island,RI,William
+2022-11-13,2022-11-19,7,Rhode Island,RI,William
+2022-11-20,2022-11-26,7,Rhode Island,RI,William
+2022-11-27,2022-12-03,7,Rhode Island,RI,William
+2022-01-02,2022-01-08,7,South Carolina,SC,Eli
+2022-01-09,2022-01-15,7,South Carolina,SC,Miles
+2022-01-16,2022-01-22,7,South Carolina,SC,Miles
+2022-01-23,2022-01-29,7,South Carolina,SC,Derrick
+2022-01-30,2022-02-05,7,South Carolina,SC,William
+2022-02-06,2022-02-12,7,South Carolina,SC,Eli
+2022-02-13,2022-02-19,7,South Carolina,SC,Eli
+2022-02-20,2022-02-26,7,South Carolina,SC,Eli
+2022-02-27,2022-03-05,7,South Carolina,SC,Eli
+2022-03-06,2022-03-12,7,South Carolina,SC,Jayden
+2022-03-13,2022-03-19,7,South Carolina,SC,Nolan
+2022-03-20,2022-03-26,7,South Carolina,SC,Jackson
+2022-03-27,2022-04-02,7,South Carolina,SC,Jackson
+2022-04-03,2022-04-09,7,South Carolina,SC,Andrew
+2022-04-10,2022-04-16,7,South Carolina,SC,Andrew
+2022-04-17,2022-04-23,7,South Carolina,SC,Andrew
+2022-04-24,2022-04-30,7,South Carolina,SC,Andrew
+2022-05-01,2022-05-07,7,South Carolina,SC,Eli
+2022-05-08,2022-05-14,7,South Carolina,SC,Nicholas
+2022-05-15,2022-05-21,7,South Carolina,SC,Julian
+2022-05-22,2022-05-28,7,South Carolina,SC,Adam
+2022-05-29,2022-06-04,7,South Carolina,SC,Jackson
+2022-06-05,2022-06-11,7,South Carolina,SC,Andrew
+2022-06-12,2022-06-18,7,South Carolina,SC,Hudson
+2022-06-19,2022-06-25,7,South Carolina,SC,Hudson
+2022-06-26,2022-07-02,7,South Carolina,SC,Hudson
+2022-07-03,2022-07-09,7,South Carolina,SC,Hudson
+2022-07-10,2022-07-16,7,South Carolina,SC,Nolan
+2022-07-17,2022-07-23,7,South Carolina,SC,Isaiah
+2022-07-24,2022-07-30,7,South Carolina,SC,Andrew
+2022-07-31,2022-08-06,7,South Carolina,SC,Eli
+2022-08-07,2022-08-13,7,South Carolina,SC,Eli
+2022-08-14,2022-08-20,7,South Carolina,SC,Eli
+2022-08-21,2022-08-27,7,South Carolina,SC,Eli
+2022-08-28,2022-09-03,7,South Carolina,SC,Eli
+2022-09-04,2022-09-10,7,South Carolina,SC,Eli
+2022-09-11,2022-09-17,7,South Carolina,SC,Jackson
+2022-09-18,2022-09-24,7,South Carolina,SC,Jackson
+2022-09-25,2022-10-01,7,South Carolina,SC,Hudson
+2022-10-02,2022-10-08,7,South Carolina,SC,Nicholas
+2022-10-09,2022-10-15,7,South Carolina,SC,Nicholas
+2022-10-16,2022-10-22,7,South Carolina,SC,Nicholas
+2022-10-23,2022-10-29,7,South Carolina,SC,Hudson
+2022-10-30,2022-11-05,7,South Carolina,SC,William
+2022-11-06,2022-11-12,7,South Carolina,SC,William
+2022-11-13,2022-11-19,7,South Carolina,SC,William
+2022-11-20,2022-11-26,7,South Carolina,SC,William
+2022-11-27,2022-12-03,7,South Carolina,SC,William
+2022-01-02,2022-01-08,7,South Dakota,SD,Eli
+2022-01-09,2022-01-15,7,South Dakota,SD,Miles
+2022-01-16,2022-01-22,7,South Dakota,SD,Miles
+2022-01-23,2022-01-29,7,South Dakota,SD,Derrick
+2022-01-30,2022-02-05,7,South Dakota,SD,William
+2022-02-06,2022-02-12,7,South Dakota,SD,Eli
+2022-02-13,2022-02-19,7,South Dakota,SD,Eli
+2022-02-20,2022-02-26,7,South Dakota,SD,Eli
+2022-02-27,2022-03-05,7,South Dakota,SD,Eli
+2022-03-06,2022-03-12,7,South Dakota,SD,Jayden
+2022-03-13,2022-03-19,7,South Dakota,SD,Nolan
+2022-03-20,2022-03-26,7,South Dakota,SD,Jackson
+2022-03-27,2022-04-02,7,South Dakota,SD,Jackson
+2022-04-03,2022-04-09,7,South Dakota,SD,Andrew
+2022-04-10,2022-04-16,7,South Dakota,SD,Andrew
+2022-04-17,2022-04-23,7,South Dakota,SD,Andrew
+2022-04-24,2022-04-30,7,South Dakota,SD,Andrew
+2022-05-01,2022-05-07,7,South Dakota,SD,Eli
+2022-05-08,2022-05-14,7,South Dakota,SD,Nicholas
+2022-05-15,2022-05-21,7,South Dakota,SD,Julian
+2022-05-22,2022-05-28,7,South Dakota,SD,Adam
+2022-05-29,2022-06-04,7,South Dakota,SD,Jackson
+2022-06-05,2022-06-11,7,South Dakota,SD,Andrew
+2022-06-12,2022-06-18,7,South Dakota,SD,Hudson
+2022-06-19,2022-06-25,7,South Dakota,SD,Hudson
+2022-06-26,2022-07-02,7,South Dakota,SD,Hudson
+2022-07-03,2022-07-09,7,South Dakota,SD,Hudson
+2022-07-10,2022-07-16,7,South Dakota,SD,Nolan
+2022-07-17,2022-07-23,7,South Dakota,SD,Isaiah
+2022-07-24,2022-07-30,7,South Dakota,SD,Andrew
+2022-07-31,2022-08-06,7,South Dakota,SD,Eli
+2022-08-07,2022-08-13,7,South Dakota,SD,Eli
+2022-08-14,2022-08-20,7,South Dakota,SD,Eli
+2022-08-21,2022-08-27,7,South Dakota,SD,Eli
+2022-08-28,2022-09-03,7,South Dakota,SD,Eli
+2022-09-04,2022-09-10,7,South Dakota,SD,Eli
+2022-09-11,2022-09-17,7,South Dakota,SD,Jackson
+2022-09-18,2022-09-24,7,South Dakota,SD,Jackson
+2022-09-25,2022-10-01,7,South Dakota,SD,Hudson
+2022-10-02,2022-10-08,7,South Dakota,SD,Nicholas
+2022-10-09,2022-10-15,7,South Dakota,SD,Nicholas
+2022-10-16,2022-10-22,7,South Dakota,SD,Nicholas
+2022-10-23,2022-10-29,7,South Dakota,SD,Hudson
+2022-10-30,2022-11-05,7,South Dakota,SD,William
+2022-11-06,2022-11-12,7,South Dakota,SD,William
+2022-11-13,2022-11-19,7,South Dakota,SD,William
+2022-11-20,2022-11-26,7,South Dakota,SD,William
+2022-11-27,2022-12-03,7,South Dakota,SD,William
+2022-01-02,2022-01-08,7,Tennessee,TN,Eli
+2022-01-09,2022-01-15,7,Tennessee,TN,Miles
+2022-01-16,2022-01-22,7,Tennessee,TN,Miles
+2022-01-23,2022-01-29,7,Tennessee,TN,Derrick
+2022-01-30,2022-02-05,7,Tennessee,TN,William
+2022-02-06,2022-02-12,7,Tennessee,TN,Eli
+2022-02-13,2022-02-19,7,Tennessee,TN,Eli
+2022-02-20,2022-02-26,7,Tennessee,TN,Eli
+2022-02-27,2022-03-05,7,Tennessee,TN,Eli
+2022-03-06,2022-03-12,7,Tennessee,TN,Jayden
+2022-03-13,2022-03-19,7,Tennessee,TN,Nolan
+2022-03-20,2022-03-26,7,Tennessee,TN,Jackson
+2022-03-27,2022-04-02,7,Tennessee,TN,Jackson
+2022-04-03,2022-04-09,7,Tennessee,TN,Andrew
+2022-04-10,2022-04-16,7,Tennessee,TN,Andrew
+2022-04-17,2022-04-23,7,Tennessee,TN,Andrew
+2022-04-24,2022-04-30,7,Tennessee,TN,Andrew
+2022-05-01,2022-05-07,7,Tennessee,TN,Eli
+2022-05-08,2022-05-14,7,Tennessee,TN,Nicholas
+2022-05-15,2022-05-21,7,Tennessee,TN,Julian
+2022-05-22,2022-05-28,7,Tennessee,TN,Adam
+2022-05-29,2022-06-04,7,Tennessee,TN,Jackson
+2022-06-05,2022-06-11,7,Tennessee,TN,Andrew
+2022-06-12,2022-06-18,7,Tennessee,TN,Hudson
+2022-06-19,2022-06-25,7,Tennessee,TN,Hudson
+2022-06-26,2022-07-02,7,Tennessee,TN,Hudson
+2022-07-03,2022-07-09,7,Tennessee,TN,Hudson
+2022-07-10,2022-07-16,7,Tennessee,TN,Nolan
+2022-07-17,2022-07-23,7,Tennessee,TN,Isaiah
+2022-07-24,2022-07-30,7,Tennessee,TN,Andrew
+2022-07-31,2022-08-06,7,Tennessee,TN,Eli
+2022-08-07,2022-08-13,7,Tennessee,TN,Eli
+2022-08-14,2022-08-20,7,Tennessee,TN,Eli
+2022-08-21,2022-08-27,7,Tennessee,TN,Eli
+2022-08-28,2022-09-03,7,Tennessee,TN,Eli
+2022-09-04,2022-09-10,7,Tennessee,TN,Eli
+2022-09-11,2022-09-17,7,Tennessee,TN,Jackson
+2022-09-18,2022-09-24,7,Tennessee,TN,Jackson
+2022-09-25,2022-10-01,7,Tennessee,TN,Hudson
+2022-10-02,2022-10-08,7,Tennessee,TN,Nicholas
+2022-10-09,2022-10-15,7,Tennessee,TN,Nicholas
+2022-10-16,2022-10-22,7,Tennessee,TN,Nicholas
+2022-10-23,2022-10-29,7,Tennessee,TN,Hudson
+2022-10-30,2022-11-05,7,Tennessee,TN,William
+2022-11-06,2022-11-12,7,Tennessee,TN,William
+2022-11-13,2022-11-19,7,Tennessee,TN,William
+2022-11-20,2022-11-26,7,Tennessee,TN,William
+2022-11-27,2022-12-03,7,Tennessee,TN,William
+2022-01-02,2022-01-08,7,Texas,TX,Eli
+2022-01-09,2022-01-15,7,Texas,TX,Miles
+2022-01-16,2022-01-22,7,Texas,TX,Miles
+2022-01-23,2022-01-29,7,Texas,TX,Derrick
+2022-01-30,2022-02-05,7,Texas,TX,William
+2022-02-06,2022-02-12,7,Texas,TX,Eli
+2022-02-13,2022-02-19,7,Texas,TX,Eli
+2022-02-20,2022-02-26,7,Texas,TX,Eli
+2022-02-27,2022-03-05,7,Texas,TX,Eli
+2022-03-06,2022-03-12,7,Texas,TX,Jayden
+2022-03-13,2022-03-19,7,Texas,TX,Nolan
+2022-03-20,2022-03-26,7,Texas,TX,Jackson
+2022-03-27,2022-04-02,7,Texas,TX,Jackson
+2022-04-03,2022-04-09,7,Texas,TX,Andrew
+2022-04-10,2022-04-16,7,Texas,TX,Andrew
+2022-04-17,2022-04-23,7,Texas,TX,Andrew
+2022-04-24,2022-04-30,7,Texas,TX,Andrew
+2022-05-01,2022-05-07,7,Texas,TX,Eli
+2022-05-08,2022-05-14,7,Texas,TX,Nicholas
+2022-05-15,2022-05-21,7,Texas,TX,Julian
+2022-05-22,2022-05-28,7,Texas,TX,Adam
+2022-05-29,2022-06-04,7,Texas,TX,Jackson
+2022-06-05,2022-06-11,7,Texas,TX,Andrew
+2022-06-12,2022-06-18,7,Texas,TX,Hudson
+2022-06-19,2022-06-25,7,Texas,TX,Hudson
+2022-06-26,2022-07-02,7,Texas,TX,Hudson
+2022-07-03,2022-07-09,7,Texas,TX,Hudson
+2022-07-10,2022-07-16,7,Texas,TX,Nolan
+2022-07-17,2022-07-23,7,Texas,TX,Isaiah
+2022-07-24,2022-07-30,7,Texas,TX,Andrew
+2022-07-31,2022-08-06,7,Texas,TX,Eli
+2022-08-07,2022-08-13,7,Texas,TX,Eli
+2022-08-14,2022-08-20,7,Texas,TX,Eli
+2022-08-21,2022-08-27,7,Texas,TX,Eli
+2022-08-28,2022-09-03,7,Texas,TX,Eli
+2022-09-04,2022-09-10,7,Texas,TX,Eli
+2022-09-11,2022-09-17,7,Texas,TX,Jackson
+2022-09-18,2022-09-24,7,Texas,TX,Jackson
+2022-09-25,2022-10-01,7,Texas,TX,Hudson
+2022-10-02,2022-10-08,7,Texas,TX,Nicholas
+2022-10-09,2022-10-15,7,Texas,TX,Nicholas
+2022-10-16,2022-10-22,7,Texas,TX,Nicholas
+2022-10-23,2022-10-29,7,Texas,TX,Hudson
+2022-10-30,2022-11-05,7,Texas,TX,William
+2022-11-06,2022-11-12,7,Texas,TX,William
+2022-11-13,2022-11-19,7,Texas,TX,William
+2022-11-20,2022-11-26,7,Texas,TX,William
+2022-11-27,2022-12-03,7,Texas,TX,William
+2022-01-02,2022-01-08,7,Utah,UT,Eli
+2022-01-09,2022-01-15,7,Utah,UT,Miles
+2022-01-16,2022-01-22,7,Utah,UT,Miles
+2022-01-23,2022-01-29,7,Utah,UT,Derrick
+2022-01-30,2022-02-05,7,Utah,UT,William
+2022-02-06,2022-02-12,7,Utah,UT,Eli
+2022-02-13,2022-02-19,7,Utah,UT,Eli
+2022-02-20,2022-02-26,7,Utah,UT,Eli
+2022-02-27,2022-03-05,7,Utah,UT,Eli
+2022-03-06,2022-03-12,7,Utah,UT,Jayden
+2022-03-13,2022-03-19,7,Utah,UT,Nolan
+2022-03-20,2022-03-26,7,Utah,UT,Jackson
+2022-03-27,2022-04-02,7,Utah,UT,Jackson
+2022-04-03,2022-04-09,7,Utah,UT,Andrew
+2022-04-10,2022-04-16,7,Utah,UT,Andrew
+2022-04-17,2022-04-23,7,Utah,UT,Andrew
+2022-04-24,2022-04-30,7,Utah,UT,Andrew
+2022-05-01,2022-05-07,7,Utah,UT,Eli
+2022-05-08,2022-05-14,7,Utah,UT,Nicholas
+2022-05-15,2022-05-21,7,Utah,UT,Julian
+2022-05-22,2022-05-28,7,Utah,UT,Adam
+2022-05-29,2022-06-04,7,Utah,UT,Jackson
+2022-06-05,2022-06-11,7,Utah,UT,Andrew
+2022-06-12,2022-06-18,7,Utah,UT,Hudson
+2022-06-19,2022-06-25,7,Utah,UT,Hudson
+2022-06-26,2022-07-02,7,Utah,UT,Hudson
+2022-07-03,2022-07-09,7,Utah,UT,Hudson
+2022-07-10,2022-07-16,7,Utah,UT,Nolan
+2022-07-17,2022-07-23,7,Utah,UT,Isaiah
+2022-07-24,2022-07-30,7,Utah,UT,Andrew
+2022-07-31,2022-08-06,7,Utah,UT,Eli
+2022-08-07,2022-08-13,7,Utah,UT,Eli
+2022-08-14,2022-08-20,7,Utah,UT,Eli
+2022-08-21,2022-08-27,7,Utah,UT,Eli
+2022-08-28,2022-09-03,7,Utah,UT,Eli
+2022-09-04,2022-09-10,7,Utah,UT,Eli
+2022-09-11,2022-09-17,7,Utah,UT,Jackson
+2022-09-18,2022-09-24,7,Utah,UT,Jackson
+2022-09-25,2022-10-01,7,Utah,UT,Hudson
+2022-10-02,2022-10-08,7,Utah,UT,Nicholas
+2022-10-09,2022-10-15,7,Utah,UT,Nicholas
+2022-10-16,2022-10-22,7,Utah,UT,Nicholas
+2022-10-23,2022-10-29,7,Utah,UT,Hudson
+2022-10-30,2022-11-05,7,Utah,UT,William
+2022-11-06,2022-11-12,7,Utah,UT,William
+2022-11-13,2022-11-19,7,Utah,UT,William
+2022-11-20,2022-11-26,7,Utah,UT,William
+2022-11-27,2022-12-03,7,Utah,UT,William
+2022-01-02,2022-01-08,7,Vermont,VT,Eli
+2022-01-09,2022-01-15,7,Vermont,VT,Miles
+2022-01-16,2022-01-22,7,Vermont,VT,Miles
+2022-01-23,2022-01-29,7,Vermont,VT,Derrick
+2022-01-30,2022-02-05,7,Vermont,VT,William
+2022-02-06,2022-02-12,7,Vermont,VT,Eli
+2022-02-13,2022-02-19,7,Vermont,VT,Eli
+2022-02-20,2022-02-26,7,Vermont,VT,Eli
+2022-02-27,2022-03-05,7,Vermont,VT,Eli
+2022-03-06,2022-03-12,7,Vermont,VT,Jayden
+2022-03-13,2022-03-19,7,Vermont,VT,Nolan
+2022-03-20,2022-03-26,7,Vermont,VT,Jackson
+2022-03-27,2022-04-02,7,Vermont,VT,Jackson
+2022-04-03,2022-04-09,7,Vermont,VT,Andrew
+2022-04-10,2022-04-16,7,Vermont,VT,Andrew
+2022-04-17,2022-04-23,7,Vermont,VT,Andrew
+2022-04-24,2022-04-30,7,Vermont,VT,Andrew
+2022-05-01,2022-05-07,7,Vermont,VT,Eli
+2022-05-08,2022-05-14,7,Vermont,VT,Nicholas
+2022-05-15,2022-05-21,7,Vermont,VT,Julian
+2022-05-22,2022-05-28,7,Vermont,VT,Adam
+2022-05-29,2022-06-04,7,Vermont,VT,Jackson
+2022-06-05,2022-06-11,7,Vermont,VT,Andrew
+2022-06-12,2022-06-18,7,Vermont,VT,Hudson
+2022-06-19,2022-06-25,7,Vermont,VT,Hudson
+2022-06-26,2022-07-02,7,Vermont,VT,Hudson
+2022-07-03,2022-07-09,7,Vermont,VT,Hudson
+2022-07-10,2022-07-16,7,Vermont,VT,Nolan
+2022-07-17,2022-07-23,7,Vermont,VT,Isaiah
+2022-07-24,2022-07-30,7,Vermont,VT,Andrew
+2022-07-31,2022-08-06,7,Vermont,VT,Eli
+2022-08-07,2022-08-13,7,Vermont,VT,Eli
+2022-08-14,2022-08-20,7,Vermont,VT,Eli
+2022-08-21,2022-08-27,7,Vermont,VT,Eli
+2022-08-28,2022-09-03,7,Vermont,VT,Eli
+2022-09-04,2022-09-10,7,Vermont,VT,Eli
+2022-09-11,2022-09-17,7,Vermont,VT,Jackson
+2022-09-18,2022-09-24,7,Vermont,VT,Jackson
+2022-09-25,2022-10-01,7,Vermont,VT,Hudson
+2022-10-02,2022-10-08,7,Vermont,VT,Nicholas
+2022-10-09,2022-10-15,7,Vermont,VT,Nicholas
+2022-10-16,2022-10-22,7,Vermont,VT,Nicholas
+2022-10-23,2022-10-29,7,Vermont,VT,Hudson
+2022-10-30,2022-11-05,7,Vermont,VT,William
+2022-11-06,2022-11-12,7,Vermont,VT,William
+2022-11-13,2022-11-19,7,Vermont,VT,William
+2022-11-20,2022-11-26,7,Vermont,VT,William
+2022-11-27,2022-12-03,7,Vermont,VT,William
+2022-01-02,2022-01-08,7,Virginia,VA,Eli
+2022-01-09,2022-01-15,7,Virginia,VA,Miles
+2022-01-16,2022-01-22,7,Virginia,VA,Miles
+2022-01-23,2022-01-29,7,Virginia,VA,Derrick
+2022-01-30,2022-02-05,7,Virginia,VA,William
+2022-02-06,2022-02-12,7,Virginia,VA,Eli
+2022-02-13,2022-02-19,7,Virginia,VA,Eli
+2022-02-20,2022-02-26,7,Virginia,VA,Eli
+2022-02-27,2022-03-05,7,Virginia,VA,Eli
+2022-03-06,2022-03-12,7,Virginia,VA,Jayden
+2022-03-13,2022-03-19,7,Virginia,VA,Nolan
+2022-03-20,2022-03-26,7,Virginia,VA,Jackson
+2022-03-27,2022-04-02,7,Virginia,VA,Jackson
+2022-04-03,2022-04-09,7,Virginia,VA,Andrew
+2022-04-10,2022-04-16,7,Virginia,VA,Andrew
+2022-04-17,2022-04-23,7,Virginia,VA,Andrew
+2022-04-24,2022-04-30,7,Virginia,VA,Andrew
+2022-05-01,2022-05-07,7,Virginia,VA,Eli
+2022-05-08,2022-05-14,7,Virginia,VA,Nicholas
+2022-05-15,2022-05-21,7,Virginia,VA,Julian
+2022-05-22,2022-05-28,7,Virginia,VA,Adam
+2022-05-29,2022-06-04,7,Virginia,VA,Jackson
+2022-06-05,2022-06-11,7,Virginia,VA,Andrew
+2022-06-12,2022-06-18,7,Virginia,VA,Hudson
+2022-06-19,2022-06-25,7,Virginia,VA,Hudson
+2022-06-26,2022-07-02,7,Virginia,VA,Hudson
+2022-07-03,2022-07-09,7,Virginia,VA,Hudson
+2022-07-10,2022-07-16,7,Virginia,VA,Nolan
+2022-07-17,2022-07-23,7,Virginia,VA,Isaiah
+2022-07-24,2022-07-30,7,Virginia,VA,Andrew
+2022-07-31,2022-08-06,7,Virginia,VA,Eli
+2022-08-07,2022-08-13,7,Virginia,VA,Eli
+2022-08-14,2022-08-20,7,Virginia,VA,Eli
+2022-08-21,2022-08-27,7,Virginia,VA,Eli
+2022-08-28,2022-09-03,7,Virginia,VA,Eli
+2022-09-04,2022-09-10,7,Virginia,VA,Eli
+2022-09-11,2022-09-17,7,Virginia,VA,Jackson
+2022-09-18,2022-09-24,7,Virginia,VA,Jackson
+2022-09-25,2022-10-01,7,Virginia,VA,Hudson
+2022-10-02,2022-10-08,7,Virginia,VA,Nicholas
+2022-10-09,2022-10-15,7,Virginia,VA,Nicholas
+2022-10-16,2022-10-22,7,Virginia,VA,Nicholas
+2022-10-23,2022-10-29,7,Virginia,VA,Hudson
+2022-10-30,2022-11-05,7,Virginia,VA,William
+2022-11-06,2022-11-12,7,Virginia,VA,William
+2022-11-13,2022-11-19,7,Virginia,VA,William
+2022-11-20,2022-11-26,7,Virginia,VA,William
+2022-11-27,2022-12-03,7,Virginia,VA,William
+2022-01-02,2022-01-08,7,Washington,WA,Eli
+2022-01-09,2022-01-15,7,Washington,WA,Miles
+2022-01-16,2022-01-22,7,Washington,WA,Miles
+2022-01-23,2022-01-29,7,Washington,WA,Derrick
+2022-01-30,2022-02-05,7,Washington,WA,William
+2022-02-06,2022-02-12,7,Washington,WA,Eli
+2022-02-13,2022-02-19,7,Washington,WA,Eli
+2022-02-20,2022-02-26,7,Washington,WA,Eli
+2022-02-27,2022-03-05,7,Washington,WA,Eli
+2022-03-06,2022-03-12,7,Washington,WA,Jayden
+2022-03-13,2022-03-19,7,Washington,WA,Nolan
+2022-03-20,2022-03-26,7,Washington,WA,Jackson
+2022-03-27,2022-04-02,7,Washington,WA,Jackson
+2022-04-03,2022-04-09,7,Washington,WA,Andrew
+2022-04-10,2022-04-16,7,Washington,WA,Andrew
+2022-04-17,2022-04-23,7,Washington,WA,Andrew
+2022-04-24,2022-04-30,7,Washington,WA,Andrew
+2022-05-01,2022-05-07,7,Washington,WA,Eli
+2022-05-08,2022-05-14,7,Washington,WA,Nicholas
+2022-05-15,2022-05-21,7,Washington,WA,Julian
+2022-05-22,2022-05-28,7,Washington,WA,Adam
+2022-05-29,2022-06-04,7,Washington,WA,Jackson
+2022-06-05,2022-06-11,7,Washington,WA,Andrew
+2022-06-12,2022-06-18,7,Washington,WA,Hudson
+2022-06-19,2022-06-25,7,Washington,WA,Hudson
+2022-06-26,2022-07-02,7,Washington,WA,Hudson
+2022-07-03,2022-07-09,7,Washington,WA,Hudson
+2022-07-10,2022-07-16,7,Washington,WA,Nolan
+2022-07-17,2022-07-23,7,Washington,WA,Isaiah
+2022-07-24,2022-07-30,7,Washington,WA,Andrew
+2022-07-31,2022-08-06,7,Washington,WA,Eli
+2022-08-07,2022-08-13,7,Washington,WA,Eli
+2022-08-14,2022-08-20,7,Washington,WA,Eli
+2022-08-21,2022-08-27,7,Washington,WA,Eli
+2022-08-28,2022-09-03,7,Washington,WA,Eli
+2022-09-04,2022-09-10,7,Washington,WA,Eli
+2022-09-11,2022-09-17,7,Washington,WA,Jackson
+2022-09-18,2022-09-24,7,Washington,WA,Jackson
+2022-09-25,2022-10-01,7,Washington,WA,Hudson
+2022-10-02,2022-10-08,7,Washington,WA,Nicholas
+2022-10-09,2022-10-15,7,Washington,WA,Nicholas
+2022-10-16,2022-10-22,7,Washington,WA,Nicholas
+2022-10-23,2022-10-29,7,Washington,WA,Hudson
+2022-10-30,2022-11-05,7,Washington,WA,William
+2022-11-06,2022-11-12,7,Washington,WA,William
+2022-11-13,2022-11-19,7,Washington,WA,William
+2022-11-20,2022-11-26,7,Washington,WA,William
+2022-11-27,2022-12-03,7,Washington,WA,William
+2022-01-02,2022-01-08,7,West Virginia,WV,Eli
+2022-01-09,2022-01-15,7,West Virginia,WV,Miles
+2022-01-16,2022-01-22,7,West Virginia,WV,Miles
+2022-01-23,2022-01-29,7,West Virginia,WV,Derrick
+2022-01-30,2022-02-05,7,West Virginia,WV,William
+2022-02-06,2022-02-12,7,West Virginia,WV,Eli
+2022-02-13,2022-02-19,7,West Virginia,WV,Eli
+2022-02-20,2022-02-26,7,West Virginia,WV,Eli
+2022-02-27,2022-03-05,7,West Virginia,WV,Eli
+2022-03-06,2022-03-12,7,West Virginia,WV,Jayden
+2022-03-13,2022-03-19,7,West Virginia,WV,Nolan
+2022-03-20,2022-03-26,7,West Virginia,WV,Jackson
+2022-03-27,2022-04-02,7,West Virginia,WV,Jackson
+2022-04-03,2022-04-09,7,West Virginia,WV,Andrew
+2022-04-10,2022-04-16,7,West Virginia,WV,Andrew
+2022-04-17,2022-04-23,7,West Virginia,WV,Andrew
+2022-04-24,2022-04-30,7,West Virginia,WV,Andrew
+2022-05-01,2022-05-07,7,West Virginia,WV,Eli
+2022-05-08,2022-05-14,7,West Virginia,WV,Nicholas
+2022-05-15,2022-05-21,7,West Virginia,WV,Julian
+2022-05-22,2022-05-28,7,West Virginia,WV,Adam
+2022-05-29,2022-06-04,7,West Virginia,WV,Jackson
+2022-06-05,2022-06-11,7,West Virginia,WV,Andrew
+2022-06-12,2022-06-18,7,West Virginia,WV,Hudson
+2022-06-19,2022-06-25,7,West Virginia,WV,Hudson
+2022-06-26,2022-07-02,7,West Virginia,WV,Hudson
+2022-07-03,2022-07-09,7,West Virginia,WV,Hudson
+2022-07-10,2022-07-16,7,West Virginia,WV,Nolan
+2022-07-17,2022-07-23,7,West Virginia,WV,Isaiah
+2022-07-24,2022-07-30,7,West Virginia,WV,Andrew
+2022-07-31,2022-08-06,7,West Virginia,WV,Eli
+2022-08-07,2022-08-13,7,West Virginia,WV,Eli
+2022-08-14,2022-08-20,7,West Virginia,WV,Eli
+2022-08-21,2022-08-27,7,West Virginia,WV,Eli
+2022-08-28,2022-09-03,7,West Virginia,WV,Eli
+2022-09-04,2022-09-10,7,West Virginia,WV,Eli
+2022-09-11,2022-09-17,7,West Virginia,WV,Jackson
+2022-09-18,2022-09-24,7,West Virginia,WV,Jackson
+2022-09-25,2022-10-01,7,West Virginia,WV,Hudson
+2022-10-02,2022-10-08,7,West Virginia,WV,Nicholas
+2022-10-09,2022-10-15,7,West Virginia,WV,Nicholas
+2022-10-16,2022-10-22,7,West Virginia,WV,Nicholas
+2022-10-23,2022-10-29,7,West Virginia,WV,Hudson
+2022-10-30,2022-11-05,7,West Virginia,WV,William
+2022-11-06,2022-11-12,7,West Virginia,WV,William
+2022-11-13,2022-11-19,7,West Virginia,WV,William
+2022-11-20,2022-11-26,7,West Virginia,WV,William
+2022-11-27,2022-12-03,7,West Virginia,WV,William
+2022-01-02,2022-01-08,7,Wisconsin,WI,Eli
+2022-01-09,2022-01-15,7,Wisconsin,WI,Miles
+2022-01-16,2022-01-22,7,Wisconsin,WI,Miles
+2022-01-23,2022-01-29,7,Wisconsin,WI,Derrick
+2022-01-30,2022-02-05,7,Wisconsin,WI,William
+2022-02-06,2022-02-12,7,Wisconsin,WI,Eli
+2022-02-13,2022-02-19,7,Wisconsin,WI,Eli
+2022-02-20,2022-02-26,7,Wisconsin,WI,Eli
+2022-02-27,2022-03-05,7,Wisconsin,WI,Eli
+2022-03-06,2022-03-12,7,Wisconsin,WI,Jayden
+2022-03-13,2022-03-19,7,Wisconsin,WI,Nolan
+2022-03-20,2022-03-26,7,Wisconsin,WI,Jackson
+2022-03-27,2022-04-02,7,Wisconsin,WI,Jackson
+2022-04-03,2022-04-09,7,Wisconsin,WI,Andrew
+2022-04-10,2022-04-16,7,Wisconsin,WI,Andrew
+2022-04-17,2022-04-23,7,Wisconsin,WI,Andrew
+2022-04-24,2022-04-30,7,Wisconsin,WI,Andrew
+2022-05-01,2022-05-07,7,Wisconsin,WI,Eli
+2022-05-08,2022-05-14,7,Wisconsin,WI,Nicholas
+2022-05-15,2022-05-21,7,Wisconsin,WI,Julian
+2022-05-22,2022-05-28,7,Wisconsin,WI,Adam
+2022-05-29,2022-06-04,7,Wisconsin,WI,Jackson
+2022-06-05,2022-06-11,7,Wisconsin,WI,Andrew
+2022-06-12,2022-06-18,7,Wisconsin,WI,Hudson
+2022-06-19,2022-06-25,7,Wisconsin,WI,Hudson
+2022-06-26,2022-07-02,7,Wisconsin,WI,Hudson
+2022-07-03,2022-07-09,7,Wisconsin,WI,Hudson
+2022-07-10,2022-07-16,7,Wisconsin,WI,Nolan
+2022-07-17,2022-07-23,7,Wisconsin,WI,Isaiah
+2022-07-24,2022-07-30,7,Wisconsin,WI,Andrew
+2022-07-31,2022-08-06,7,Wisconsin,WI,Eli
+2022-08-07,2022-08-13,7,Wisconsin,WI,Eli
+2022-08-14,2022-08-20,7,Wisconsin,WI,Eli
+2022-08-21,2022-08-27,7,Wisconsin,WI,Eli
+2022-08-28,2022-09-03,7,Wisconsin,WI,Eli
+2022-09-04,2022-09-10,7,Wisconsin,WI,Eli
+2022-09-11,2022-09-17,7,Wisconsin,WI,Jackson
+2022-09-18,2022-09-24,7,Wisconsin,WI,Jackson
+2022-09-25,2022-10-01,7,Wisconsin,WI,Hudson
+2022-10-02,2022-10-08,7,Wisconsin,WI,Nicholas
+2022-10-09,2022-10-15,7,Wisconsin,WI,Nicholas
+2022-10-16,2022-10-22,7,Wisconsin,WI,Nicholas
+2022-10-23,2022-10-29,7,Wisconsin,WI,Hudson
+2022-10-30,2022-11-05,7,Wisconsin,WI,William
+2022-11-06,2022-11-12,7,Wisconsin,WI,William
+2022-11-13,2022-11-19,7,Wisconsin,WI,William
+2022-11-20,2022-11-26,7,Wisconsin,WI,William
+2022-11-27,2022-12-03,7,Wisconsin,WI,William
+2022-01-02,2022-01-08,7,Wyoming,WY,Eli
+2022-01-09,2022-01-15,7,Wyoming,WY,Miles
+2022-01-16,2022-01-22,7,Wyoming,WY,Miles
+2022-01-23,2022-01-29,7,Wyoming,WY,Derrick
+2022-01-30,2022-02-05,7,Wyoming,WY,William
+2022-02-06,2022-02-12,7,Wyoming,WY,Eli
+2022-02-13,2022-02-19,7,Wyoming,WY,Eli
+2022-02-20,2022-02-26,7,Wyoming,WY,Eli
+2022-02-27,2022-03-05,7,Wyoming,WY,Eli
+2022-03-06,2022-03-12,7,Wyoming,WY,Jayden
+2022-03-13,2022-03-19,7,Wyoming,WY,Nolan
+2022-03-20,2022-03-26,7,Wyoming,WY,Jackson
+2022-03-27,2022-04-02,7,Wyoming,WY,Jackson
+2022-04-03,2022-04-09,7,Wyoming,WY,Andrew
+2022-04-10,2022-04-16,7,Wyoming,WY,Andrew
+2022-04-17,2022-04-23,7,Wyoming,WY,Andrew
+2022-04-24,2022-04-30,7,Wyoming,WY,Andrew
+2022-05-01,2022-05-07,7,Wyoming,WY,Eli
+2022-05-08,2022-05-14,7,Wyoming,WY,Nicholas
+2022-05-15,2022-05-21,7,Wyoming,WY,Julian
+2022-05-22,2022-05-28,7,Wyoming,WY,Adam
+2022-05-29,2022-06-04,7,Wyoming,WY,Jackson
+2022-06-05,2022-06-11,7,Wyoming,WY,Andrew
+2022-06-12,2022-06-18,7,Wyoming,WY,Hudson
+2022-06-19,2022-06-25,7,Wyoming,WY,Hudson
+2022-06-26,2022-07-02,7,Wyoming,WY,Hudson
+2022-07-03,2022-07-09,7,Wyoming,WY,Hudson
+2022-07-10,2022-07-16,7,Wyoming,WY,Nolan
+2022-07-17,2022-07-23,7,Wyoming,WY,Isaiah
+2022-07-24,2022-07-30,7,Wyoming,WY,Andrew
+2022-07-31,2022-08-06,7,Wyoming,WY,Eli
+2022-08-07,2022-08-13,7,Wyoming,WY,Eli
+2022-08-14,2022-08-20,7,Wyoming,WY,Eli
+2022-08-21,2022-08-27,7,Wyoming,WY,Eli
+2022-08-28,2022-09-03,7,Wyoming,WY,Eli
+2022-09-04,2022-09-10,7,Wyoming,WY,Eli
+2022-09-11,2022-09-17,7,Wyoming,WY,Jackson
+2022-09-18,2022-09-24,7,Wyoming,WY,Jackson
+2022-09-25,2022-10-01,7,Wyoming,WY,Hudson
+2022-10-02,2022-10-08,7,Wyoming,WY,Nicholas
+2022-10-09,2022-10-15,7,Wyoming,WY,Nicholas
+2022-10-16,2022-10-22,7,Wyoming,WY,Nicholas
+2022-10-23,2022-10-29,7,Wyoming,WY,Hudson
+2022-10-30,2022-11-05,7,Wyoming,WY,William
+2022-11-06,2022-11-12,7,Wyoming,WY,William
+2022-11-13,2022-11-19,7,Wyoming,WY,William
+2022-11-20,2022-11-26,7,Wyoming,WY,William
+2022-11-27,2022-12-03,7,Wyoming,WY,William

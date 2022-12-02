@@ -28,28 +28,32 @@ _max_width_()
 
 st.markdown("<h1 style='text-align: center; color: black;'>US - States search words in time</h1>", unsafe_allow_html=True)
 
-df = pd.read_csv(r'state_market_tracker - Kopie.csv', sep='\t')
-df=df[['period_begin','state','state_code','property_type','median_sale_price']]
-df=df[ (df['property_type']=='Single Family Residential')] 
-df.rename({'median_sale_price':'Median Sales Price ($)'},axis=1, inplace=True)
+import pandas as pd 
+import plotly.express as px
+
+df = pd.read_csv(r'us_state_searchwords.csv', sep=',')
 df['period_begin'] = pd.to_datetime(df['period_begin']).dt.date.astype(str)
 df=df.sort_values("period_begin") # Make sure you sort the time horizon column in ascending order because this column is in random order in the raw dataset
 
 fig = px.choropleth(df,
                     locations='state_code', 
                     locationmode="USA-states", 
-                    color='Median Sales Price ($)',
+                    color='search_word',
                     color_continuous_scale="Viridis_r", 
                     scope="usa",
                     animation_frame='period_begin',
-                    ) 
+                   ) #make sure 'period_begin' is string type and sorted in ascending order
+                   
 
-fig.add_scattergeo(
-    locations=df['state_code'],
-    locationmode="USA-states", 
-    text=df['Median Sales Price ($)'],
-    mode='text',
-)
+fig.update_layout(sliders=[{"currentvalue": {"prefix": "Year=", "font": {'size': 20}}}])
+
+# fig.add_scattergeo(
+#     locations=df['state_code'],
+#     locationmode="USA-states", 
+#     text=df['Median Sales Price ($)'],
+#     mode='text',
+#     featureidkey="period_begin",
+# )
 
 fig.update_layout(
     # title="Plot Title",
